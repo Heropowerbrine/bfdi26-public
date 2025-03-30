@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sadface.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="12" y="12" width="549" height="441"/>
+	<SubTexture name="down0001" x="12" y="12" width="549" height="441"/>
+	<SubTexture name="down0002" x="569" y="12" width="549" height="441"/>
+	<SubTexture name="down0003" x="569" y="12" width="549" height="441"/>
+	<SubTexture name="idle0000" x="12" y="461" width="463" height="476"/>
+	<SubTexture name="left0000" x="483" y="461" width="498" height="476"/>
+	<SubTexture name="left0001" x="483" y="461" width="498" height="476"/>
+	<SubTexture name="left0002" x="12" y="945" width="498" height="476"/>
+	<SubTexture name="left0003" x="12" y="945" width="498" height="476"/>
+	<SubTexture name="right0000" x="518" y="945" width="540" height="478"/>
+	<SubTexture name="right0001" x="518" y="945" width="540" height="478"/>
+	<SubTexture name="right0002" x="12" y="1431" width="540" height="478"/>
+	<SubTexture name="right0003" x="12" y="1431" width="540" height="478"/>
+	<SubTexture name="up0000" x="560" y="1431" width="397" height="587"/>
+	<SubTexture name="up0001" x="560" y="1431" width="397" height="587"/>
+	<SubTexture name="up0002" x="965" y="1431" width="397" height="587"/>
+	<SubTexture name="up0003" x="965" y="1431" width="397" height="587"/>
+</TextureAtlas>

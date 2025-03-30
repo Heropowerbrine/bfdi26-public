@@ -1,0 +1,49 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-734,
+				-27
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "planet blah instance 1",
+			"indices": [
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-738,
+				-27
+			],
+			"anim": "blah",
+			"fps": 24,
+			"name": "planet blah instance 1",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/help-me/planet planet blah",
+	"position": [
+		-160,
+		660
+	],
+	"healthicon": "planet",
+	"flip_x": false,
+	"healthbar_colors": [
+		230,
+		144,
+		118
+	],
+	"camera_position": [
+		620,
+		50
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

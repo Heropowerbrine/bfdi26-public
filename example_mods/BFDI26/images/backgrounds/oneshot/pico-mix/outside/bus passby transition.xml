@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bus passby transition.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bus darkened instance 10000" x="7" y="1629" width="5274" height="1610" frameX="0" frameY="-5" frameWidth="5274" frameHeight="1615"/>
+	<SubTexture name="bus darkened instance 10001" x="7" y="3246" width="5228" height="1602" frameX="-46" frameY="-13" frameWidth="5274" frameHeight="1615"/>
+	<SubTexture name="bus darkened instance 10002" x="7" y="7" width="5270" height="1615" frameX="-4" frameY="0" frameWidth="5274" frameHeight="1615"/>
+</TextureAtlas>

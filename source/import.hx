@@ -1,17 +1,13 @@
 #if !macro
 //Discord API
 #if DISCORD_ALLOWED
-import backend.Discord;
+import funkin.api.DiscordClient;
 #end
 
 //Psych
 #if LUA_ALLOWED
 import llua.*;
 import llua.Lua;
-#end
-
-#if ACHIEVEMENTS_ALLOWED
-import backend.Achievements;
 #end
 
 #if sys
@@ -21,26 +17,44 @@ import sys.io.*;
 import js.html.*;
 #end
 
-import backend.Paths;
-import backend.Controls;
-import backend.CoolUtil;
-import backend.MusicBeatState;
-import backend.MusicBeatSubstate;
-import backend.CustomFadeTransition;
-import backend.ClientPrefs;
-import backend.Conductor;
-import backend.BaseStage;
-import backend.Difficulty;
-import backend.Mods;
+import funkin.Paths;
 
-import objects.Alphabet;
-import objects.BGSprite;
+import funkin.backend.MusicBeatState;
+import funkin.backend.MusicBeatSubstate;
+import funkin.backend.CustomFadeTransition;
+import funkin.backend.Conductor;
+import funkin.backend.BaseStage;
+import funkin.backend.Difficulty;
+import funkin.backend.Mods;
 
-import states.PlayState;
-import states.LoadingState;
+import funkin.data.Controls;
+import funkin.data.ClientPrefs;
+
+import funkin.utils.CoolUtil;
+
+import funkin.objects.Alphabet;
+import funkin.objects.BGSprite;
+
+import funkin.states.PlayState;
+import funkin.states.LoadingState;
 
 #if flxanimate
 import flxanimate.*;
+import flxanimate.PsychFlxAnimate as FlxAnimate;
+#end
+
+#if VIDEOS_ALLOWED
+import hxvlc.flixel.*;
+import hxvlc.openfl.*;
+import funkin.objects.Video4;
+#end
+
+#if target.threaded
+import sys.thread.Thread;
+#end
+
+#if HSCRIPT_ALLOWED
+import crowplexus.iris.Iris;
 #end
 
 //Flixel
@@ -59,5 +73,5 @@ import flixel.group.FlxSpriteGroup;
 import flixel.group.FlxGroup.FlxTypedGroup;
 
 using StringTools;
-using backend.FlxObjectTools;
+using funkin.backend.FlxObjectTools;
 #end

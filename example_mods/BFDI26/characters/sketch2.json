@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SIDEVIEW POSES/SKETCH/idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SIDEVIEW POSES/SKETCH/left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SIDEVIEW POSES/SKETCH/down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SIDEVIEW POSES/SKETCH/up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SIDEVIEW POSES/SKETCH/right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "miss",
+			"fps": 24,
+			"name": "SIDEVIEW POSES/SKETCH/miss",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/underway/sketchpad2",
+	"position": [
+		60,
+		530
+	],
+	"healthicon": "thnsp",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

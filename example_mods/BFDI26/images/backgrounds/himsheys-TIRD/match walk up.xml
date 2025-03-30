@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="match walk up.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="match walk up instance 10000" x="7" y="7" width="271" height="1005" frameX="0" frameY="0" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10001" x="285" y="7" width="265" height="990" frameX="-33" frameY="-6" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10002" x="557" y="7" width="259" height="976" frameX="-65" frameY="-12" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10003" x="823" y="7" width="253" height="961" frameX="-96" frameY="-19" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10004" x="1083" y="7" width="247" height="949" frameX="-126" frameY="-26" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10005" x="1337" y="7" width="242" height="937" frameX="-155" frameY="-33" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10006" x="1586" y="7" width="237" height="924" frameX="-183" frameY="-42" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10007" x="1586" y="938" width="232" height="913" frameX="-210" frameY="-50" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10008" x="1337" y="951" width="228" height="902" frameX="-235" frameY="-49" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10009" x="1083" y="963" width="223" height="891" frameX="-260" frameY="-48" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10010" x="823" y="975" width="221" height="880" frameX="-282" frameY="-48" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10011" x="557" y="990" width="217" height="870" frameX="-305" frameY="-49" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10012" x="7" y="1019" width="213" height="860" frameX="-327" frameY="-51" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10013" x="227" y="1811" width="210" height="851" frameX="-347" frameY="-53" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10014" x="1051" y="1861" width="208" height="842" frameX="-376" frameY="-58" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10015" x="444" y="1867" width="206" height="833" frameX="-402" frameY="-63" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10016" x="7" y="1886" width="203" height="825" frameX="-426" frameY="-67" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10017" x="438" y="2707" width="202" height="818" frameX="-447" frameY="-71" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10018" x="7" y="2718" width="203" height="812" frameX="-463" frameY="-74" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10019" x="1572" y="1858" width="219" height="806" frameX="-462" frameY="-77" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10020" x="285" y="1004" width="234" height="800" frameX="-478" frameY="-79" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10021" x="1313" y="1860" width="221" height="795" frameX="-466" frameY="-57" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10022" x="781" y="1862" width="218" height="790" frameX="-482" frameY="-62" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10023" x="657" y="2659" width="215" height="784" frameX="-497" frameY="-67" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10024" x="1487" y="2671" width="213" height="780" frameX="-509" frameY="-70" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10025" x="1266" y="2662" width="214" height="780" frameX="-511" frameY="-72" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10026" x="217" y="2669" width="214" height="780" frameX="-512" frameY="-72" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10027" x="879" y="2710" width="213" height="780" frameX="-513" frameY="-73" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10028" x="879" y="2710" width="213" height="780" frameX="-513" frameY="-73" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10029" x="879" y="2710" width="213" height="780" frameX="-513" frameY="-73" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10030" x="879" y="2710" width="213" height="780" frameX="-513" frameY="-73" frameWidth="725" frameHeight="1005"/>
+	<SubTexture name="match walk up instance 10031" x="879" y="2710" width="213" height="780" frameX="-513" frameY="-73" frameWidth="725" frameHeight="1005"/>
+</TextureAtlas>

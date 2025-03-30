@@ -1,4 +1,5 @@
 {
+	"wrapping": {"maxLineLength": 200,"arrayWrap": {"defaultWrap": "keep"}},
 	"lineEnds": {
 		"anonFunctionCurly": {
 		  "emptyCurly": "break",
@@ -14,7 +15,11 @@
 		"ifElse": "next",
 		"elseBody": "same",
 		"doWhile": "next",
+		"forBody": "same",
 		"tryBody": "next",
 		"tryCatch": "next"
+	},
+	"indentation":{
+		"trailingWhitespace": true
 	}
 }

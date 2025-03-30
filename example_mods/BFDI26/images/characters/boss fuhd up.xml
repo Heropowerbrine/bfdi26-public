@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boss fuhd up.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boss fucked up idle instance 10000" x="2575" y="1096" width="290" height="523" frameX="0" frameY="0" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss fucked up idle instance 10001" x="2575" y="1096" width="290" height="523" frameX="0" frameY="0" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss fucked up idle instance 10002" x="2575" y="1096" width="290" height="523" frameX="0" frameY="0" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss fucked up idle instance 10003" x="2575" y="1096" width="290" height="523" frameX="0" frameY="0" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss fucked up idle instance 10004" x="2575" y="1096" width="290" height="523" frameX="0" frameY="0" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss fucked up idle instance 10005" x="2575" y="1096" width="290" height="523" frameX="0" frameY="0" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss fucked up idle instance 10006" x="2575" y="1096" width="290" height="523" frameX="0" frameY="0" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss fucked up idle instance 10007" x="597" y="1113" width="289" height="522" frameX="-1" frameY="0" frameWidth="290" frameHeight="523"/>
+	<SubTexture name="boss fucked up idle instance 10008" x="597" y="1113" width="289" height="522" frameX="-1" frameY="0" frameWidth="290" frameHeight="523"/>
+	<SubTexture name="boss fucked up idle instance 10009" x="597" y="1113" width="289" height="522" frameX="-1" frameY="0" frameWidth="290" frameHeight="523"/>
+	<SubTexture name="boss fucked up idle instance 10010" x="597" y="1113" width="289" height="522" frameX="-1" frameY="0" frameWidth="290" frameHeight="523"/>
+	<SubTexture name="boss fucked up idle instance 10011" x="597" y="1113" width="289" height="522" frameX="-1" frameY="0" frameWidth="290" frameHeight="523"/>
+	<SubTexture name="boss fucked up idle instance 10012" x="597" y="1113" width="289" height="522" frameX="-1" frameY="0" frameWidth="290" frameHeight="523"/>
+	<SubTexture name="boss fucked up idle instance 10013" x="597" y="1113" width="289" height="522" frameX="-1" frameY="0" frameWidth="290" frameHeight="523"/>
+	<SubTexture name="boss window smash instance 10000" x="2575" y="1096" width="290" height="523" frameX="-981" frameY="-296" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10001" x="2872" y="1096" width="290" height="523" frameX="-982" frameY="-296" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10002" x="3169" y="1096" width="289" height="523" frameX="-983" frameY="-296" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10003" x="2245" y="1097" width="288" height="524" frameX="-985" frameY="-296" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10004" x="1078" y="1112" width="287" height="524" frameX="-987" frameY="-296" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10005" x="7" y="1588" width="285" height="525" frameX="-989" frameY="-296" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10006" x="2826" y="1626" width="284" height="525" frameX="-992" frameY="-297" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10007" x="2245" y="1628" width="282" height="526" frameX="-995" frameY="-297" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10008" x="1945" y="1640" width="281" height="526" frameX="-998" frameY="-298" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10009" x="1658" y="1640" width="280" height="528" frameX="-1002" frameY="-298" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10010" x="1372" y="1640" width="279" height="530" frameX="-1006" frameY="-299" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10011" x="3402" y="1626" width="279" height="532" frameX="-1011" frameY="-301" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10012" x="3117" y="1626" width="278" height="534" frameX="-1016" frameY="-302" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10013" x="2540" y="1626" width="279" height="535" frameX="-1019" frameY="-303" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10014" x="300" y="1491" width="281" height="535" frameX="-1022" frameY="-304" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10015" x="1955" y="1096" width="283" height="537" frameX="-1024" frameY="-304" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10016" x="1372" y="1096" width="285" height="537" frameX="-1025" frameY="-305" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10017" x="7" y="1044" width="286" height="537" frameX="-1026" frameY="-305" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10018" x="2281" y="552" width="287" height="538" frameX="-1027" frameY="-305" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10019" x="1078" y="568" width="287" height="537" frameX="-1028" frameY="-306" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10020" x="784" y="568" width="287" height="538" frameX="-1029" frameY="-306" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10021" x="488" y="402" width="289" height="538" frameX="-1029" frameY="-306" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10022" x="1394" y="552" width="289" height="537" frameX="-1030" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10023" x="1690" y="552" width="289" height="537" frameX="-1030" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10024" x="2583" y="7" width="290" height="537" frameX="-1030" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10025" x="1692" y="7" width="290" height="538" frameX="-1030" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10026" x="1394" y="7" width="291" height="538" frameX="-1030" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10027" x="1989" y="7" width="290" height="538" frameX="-1031" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10028" x="7" y="499" width="289" height="538" frameX="-1031" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10029" x="7" y="499" width="289" height="538" frameX="-1031" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10030" x="2286" y="7" width="290" height="538" frameX="-1031" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10031" x="2286" y="7" width="290" height="538" frameX="-1031" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10032" x="2286" y="7" width="290" height="538" frameX="-1031" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10033" x="2583" y="551" width="289" height="538" frameX="-1031" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10034" x="2879" y="551" width="289" height="538" frameX="-1031" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10035" x="2880" y="7" width="290" height="537" frameX="-1030" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10036" x="3177" y="7" width="290" height="537" frameX="-1030" frameY="-307" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10037" x="3175" y="551" width="289" height="538" frameX="-1030" frameY="-306" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10038" x="1986" y="552" width="288" height="537" frameX="-1030" frameY="-306" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10039" x="303" y="947" width="287" height="537" frameX="-1029" frameY="-305" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10040" x="1664" y="1096" width="284" height="537" frameX="-1029" frameY="-304" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10041" x="1035" y="7" width="352" height="554" frameX="-758" frameY="-237" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10042" x="7" y="7" width="474" height="485" frameX="-414" frameY="-167" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10043" x="488" y="7" width="540" height="388" frameX="-124" frameY="-119" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10044" x="588" y="1642" width="445" height="293" frameX="0" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10045" x="1040" y="1643" width="235" height="250" frameX="0" frameY="-26" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10046" x="3474" y="7" width="67" height="235" frameX="0" frameY="0" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10047" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10048" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10049" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10050" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10051" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10052" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10053" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10054" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10055" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10056" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10057" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10058" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10059" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10060" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10061" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10062" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10063" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10064" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10065" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10066" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10067" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10068" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10069" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10070" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10071" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10072" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+	<SubTexture name="boss window smash instance 10073" x="7" y="7" width="0" height="0" frameX="368" frameY="-82" frameWidth="1321" frameHeight="845"/>
+</TextureAtlas>

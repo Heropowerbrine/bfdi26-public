@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="demon core swing bop.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="demon core swingy instance 10000" x="7" y="7" width="142" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10001" x="7" y="7" width="142" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10002" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10003" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10004" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10005" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10006" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10007" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10008" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10009" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10010" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10011" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10012" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10013" x="305" y="7" width="141" height="107" frameX="0" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10014" x="156" y="7" width="142" height="107" frameX="-3" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10015" x="156" y="7" width="142" height="107" frameX="-3" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10016" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10017" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10018" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10019" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10020" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10021" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10022" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10023" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10024" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10025" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10026" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+	<SubTexture name="demon core swingy instance 10027" x="453" y="7" width="141" height="107" frameX="-4" frameY="0" frameWidth="145" frameHeight="107"/>
+</TextureAtlas>

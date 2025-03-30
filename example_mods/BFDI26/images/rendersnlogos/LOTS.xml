@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LOTS text.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 30000" x="12" y="12" width="628" height="150"/>
+	<SubTexture name="Symbol 30001" x="12" y="12" width="628" height="150"/>
+	<SubTexture name="Symbol 30002" x="12" y="170" width="628" height="150"/>
+	<SubTexture name="Symbol 30003" x="12" y="170" width="628" height="150"/>
+	<SubTexture name="Symbol 30004" x="12" y="328" width="628" height="150"/>
+	<SubTexture name="Symbol 30005" x="12" y="328" width="628" height="150"/>
+</TextureAtlas>

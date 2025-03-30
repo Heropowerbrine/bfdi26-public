@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="planet planet.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="planet down alt instance 10000" x="7" y="204" width="102" height="37"/>
+	<SubTexture name="planet down alt instance 10001" x="7" y="204" width="102" height="37"/>
+	<SubTexture name="planet down alt instance 10002" x="311" y="205" width="98" height="36" frameX="-4" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down alt instance 10003" x="311" y="205" width="98" height="36" frameX="-4" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down alt instance 10004" x="116" y="209" width="97" height="36" frameX="-5" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down alt instance 10005" x="116" y="209" width="97" height="36" frameX="-5" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down alt instance 10006" x="116" y="209" width="97" height="36" frameX="-5" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down alt instance 10007" x="116" y="209" width="97" height="36" frameX="-5" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down alt instance 10008" x="116" y="209" width="97" height="36" frameX="-5" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down alt instance 10009" x="116" y="209" width="97" height="36" frameX="-5" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down alt instance 10010" x="116" y="209" width="97" height="36" frameX="-5" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down alt instance 10011" x="116" y="209" width="97" height="36" frameX="-5" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down alt instance 10012" x="116" y="209" width="97" height="36" frameX="-5" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down alt instance 10013" x="116" y="209" width="97" height="36" frameX="-5" frameY="-1" frameWidth="102" frameHeight="37"/>
+	<SubTexture name="planet down instance 10000" x="96" y="252" width="102" height="33"/>
+	<SubTexture name="planet down instance 10001" x="96" y="252" width="102" height="33"/>
+	<SubTexture name="planet down instance 10002" x="7" y="115" width="98" height="33" frameX="-4" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet down instance 10003" x="7" y="115" width="98" height="33" frameX="-4" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet down instance 10004" x="205" y="262" width="97" height="32" frameX="-5" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet down instance 10005" x="205" y="262" width="97" height="32" frameX="-5" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet down instance 10006" x="205" y="262" width="97" height="32" frameX="-5" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet down instance 10007" x="205" y="262" width="97" height="32" frameX="-5" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet down instance 10008" x="205" y="262" width="97" height="32" frameX="-5" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet down instance 10009" x="205" y="262" width="97" height="32" frameX="-5" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet down instance 10010" x="205" y="262" width="97" height="32" frameX="-5" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet down instance 10011" x="205" y="262" width="97" height="32" frameX="-5" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet down instance 10012" x="205" y="262" width="97" height="32" frameX="-5" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet down instance 10013" x="205" y="262" width="97" height="32" frameX="-5" frameY="0" frameWidth="102" frameHeight="33"/>
+	<SubTexture name="planet idel instance 10000" x="7" y="156" width="103" height="41" frameX="-1" frameY="0" frameWidth="105" frameHeight="41"/>
+	<SubTexture name="planet idel instance 10001" x="7" y="156" width="103" height="41" frameX="-1" frameY="0" frameWidth="105" frameHeight="41"/>
+	<SubTexture name="planet idel instance 10002" x="7" y="156" width="103" height="41" frameX="-1" frameY="0" frameWidth="105" frameHeight="41"/>
+	<SubTexture name="planet idel instance 10003" x="7" y="156" width="103" height="41" frameX="-1" frameY="0" frameWidth="105" frameHeight="41"/>
+	<SubTexture name="planet idel instance 10004" x="7" y="156" width="103" height="41" frameX="-1" frameY="0" frameWidth="105" frameHeight="41"/>
+	<SubTexture name="planet idel instance 10005" x="7" y="156" width="103" height="41" frameX="-1" frameY="0" frameWidth="105" frameHeight="41"/>
+	<SubTexture name="planet idel instance 10006" x="7" y="156" width="103" height="41" frameX="-1" frameY="0" frameWidth="105" frameHeight="41"/>
+	<SubTexture name="planet idel instance 10007" x="339" y="108" width="105" height="41"/>
+	<SubTexture name="planet idel instance 10008" x="339" y="108" width="105" height="41"/>
+	<SubTexture name="planet idel instance 10009" x="339" y="108" width="105" height="41"/>
+	<SubTexture name="planet idel instance 10010" x="339" y="108" width="105" height="41"/>
+	<SubTexture name="planet idel instance 10011" x="339" y="108" width="105" height="41"/>
+	<SubTexture name="planet idel instance 10012" x="339" y="108" width="105" height="41"/>
+	<SubTexture name="planet idel instance 10013" x="339" y="108" width="105" height="41"/>
+	<SubTexture name="planet left alt instance 10000" x="7" y="64" width="99" height="44" frameX="0" frameY="-1" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10001" x="7" y="64" width="99" height="44" frameX="0" frameY="-1" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10002" x="113" y="105" width="99" height="44" frameX="-1" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10003" x="113" y="105" width="99" height="44" frameX="-1" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10004" x="219" y="111" width="100" height="43" frameX="0" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10005" x="219" y="111" width="100" height="43" frameX="0" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10006" x="219" y="111" width="100" height="43" frameX="0" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10007" x="219" y="111" width="100" height="43" frameX="0" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10008" x="219" y="111" width="100" height="43" frameX="0" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10009" x="219" y="111" width="100" height="43" frameX="0" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10010" x="219" y="111" width="100" height="43" frameX="0" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10011" x="219" y="111" width="100" height="43" frameX="0" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10012" x="219" y="111" width="100" height="43" frameX="0" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left alt instance 10013" x="219" y="111" width="100" height="43" frameX="0" frameY="0" frameWidth="100" frameHeight="45"/>
+	<SubTexture name="planet left instance 10000" x="7" y="7" width="99" height="50" frameX="0" frameY="0" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10001" x="7" y="7" width="99" height="50" frameX="0" frameY="0" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10002" x="235" y="7" width="99" height="48" frameX="-1" frameY="-1" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10003" x="235" y="7" width="99" height="48" frameX="-1" frameY="-1" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10004" x="341" y="7" width="100" height="46" frameX="0" frameY="-2" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10005" x="341" y="7" width="100" height="46" frameX="0" frameY="-2" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10006" x="341" y="7" width="100" height="46" frameX="0" frameY="-2" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10007" x="341" y="7" width="100" height="46" frameX="0" frameY="-2" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10008" x="341" y="7" width="100" height="46" frameX="0" frameY="-2" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10009" x="341" y="7" width="100" height="46" frameX="0" frameY="-2" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10010" x="341" y="7" width="100" height="46" frameX="0" frameY="-2" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10011" x="341" y="7" width="100" height="46" frameX="0" frameY="-2" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10012" x="341" y="7" width="100" height="46" frameX="0" frameY="-2" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet left instance 10013" x="341" y="7" width="100" height="46" frameX="0" frameY="-2" frameWidth="100" frameHeight="50"/>
+	<SubTexture name="planet right alt instance 10000" x="220" y="213" width="82" height="42" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right alt instance 10001" x="220" y="213" width="82" height="42" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right alt instance 10002" x="222" y="161" width="82" height="45"/>
+	<SubTexture name="planet right alt instance 10003" x="222" y="161" width="82" height="45"/>
+	<SubTexture name="planet right alt instance 10004" x="416" y="205" width="82" height="43" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right alt instance 10005" x="416" y="205" width="82" height="43" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right alt instance 10006" x="416" y="205" width="82" height="43" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right alt instance 10007" x="416" y="205" width="82" height="43" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right alt instance 10008" x="416" y="205" width="82" height="43" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right alt instance 10009" x="416" y="205" width="82" height="43" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right alt instance 10010" x="416" y="205" width="82" height="43" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right alt instance 10011" x="416" y="205" width="82" height="43" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right alt instance 10012" x="416" y="205" width="82" height="43" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right alt instance 10013" x="416" y="205" width="82" height="43" frameX="0" frameY="-1" frameWidth="82" frameHeight="45"/>
+	<SubTexture name="planet right instance 10000" x="398" y="255" width="82" height="39" frameX="0" frameY="-1" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet right instance 10001" x="398" y="255" width="82" height="39" frameX="0" frameY="-1" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet right instance 10002" x="7" y="248" width="82" height="42"/>
+	<SubTexture name="planet right instance 10003" x="7" y="248" width="82" height="42"/>
+	<SubTexture name="planet right instance 10004" x="309" y="248" width="82" height="41" frameX="0" frameY="0" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet right instance 10005" x="309" y="248" width="82" height="41" frameX="0" frameY="0" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet right instance 10006" x="309" y="248" width="82" height="41" frameX="0" frameY="0" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet right instance 10007" x="309" y="248" width="82" height="41" frameX="0" frameY="0" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet right instance 10008" x="309" y="248" width="82" height="41" frameX="0" frameY="0" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet right instance 10009" x="309" y="248" width="82" height="41" frameX="0" frameY="0" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet right instance 10010" x="309" y="248" width="82" height="41" frameX="0" frameY="0" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet right instance 10011" x="309" y="248" width="82" height="41" frameX="0" frameY="0" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet right instance 10012" x="309" y="248" width="82" height="41" frameX="0" frameY="0" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet right instance 10013" x="309" y="248" width="82" height="41" frameX="0" frameY="0" frameWidth="82" frameHeight="42"/>
+	<SubTexture name="planet up alt instance 10000" x="228" y="62" width="104" height="42" frameX="0" frameY="0" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10001" x="228" y="62" width="104" height="42" frameX="0" frameY="0" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10002" x="117" y="161" width="98" height="41" frameX="-5" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10003" x="117" y="161" width="98" height="41" frameX="-5" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10004" x="326" y="156" width="97" height="42" frameX="-6" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10005" x="326" y="156" width="97" height="42" frameX="-6" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10006" x="326" y="156" width="97" height="42" frameX="-6" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10007" x="326" y="156" width="97" height="42" frameX="-6" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10008" x="326" y="156" width="97" height="42" frameX="-6" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10009" x="326" y="156" width="97" height="42" frameX="-6" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10010" x="326" y="156" width="97" height="42" frameX="-6" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10011" x="326" y="156" width="97" height="42" frameX="-6" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10012" x="326" y="156" width="97" height="42" frameX="-6" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up alt instance 10013" x="326" y="156" width="97" height="42" frameX="-6" frameY="-1" frameWidth="104" frameHeight="43"/>
+	<SubTexture name="planet up instance 10000" x="113" y="7" width="115" height="42" frameX="0" frameY="0" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10001" x="113" y="7" width="115" height="42" frameX="0" frameY="0" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10002" x="341" y="60" width="110" height="41" frameX="-5" frameY="-1" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10003" x="341" y="60" width="110" height="41" frameX="-5" frameY="-1" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10004" x="113" y="56" width="108" height="42" frameX="-6" frameY="-1" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10005" x="113" y="56" width="108" height="42" frameX="-6" frameY="-1" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10006" x="113" y="56" width="108" height="42" frameX="-6" frameY="-1" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10007" x="113" y="56" width="108" height="42" frameX="-6" frameY="-1" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10008" x="113" y="56" width="108" height="42" frameX="-6" frameY="-1" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10009" x="113" y="56" width="108" height="42" frameX="-6" frameY="-1" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10010" x="113" y="56" width="108" height="42" frameX="-6" frameY="-1" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10011" x="113" y="56" width="108" height="42" frameX="-6" frameY="-1" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10012" x="113" y="56" width="108" height="42" frameX="-6" frameY="-1" frameWidth="115" frameHeight="43"/>
+	<SubTexture name="planet up instance 10013" x="113" y="56" width="108" height="42" frameX="-6" frameY="-1" frameWidth="115" frameHeight="43"/>
+</TextureAtlas>

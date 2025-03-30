@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-741,
+				-36
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "planet idel instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-738,
+				-35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "planet up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-737,
+				-37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "planet down instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-751,
+				-41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "planet right instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-737,
+				-25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "planet left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-738,
+				-30
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "planet left alt instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-751,
+				-38
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "planet right alt instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-737,
+				-34
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "planet down alt instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-738,
+				-36
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "planet up alt instance 1",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/help-me/planet planet",
+	"position": [
+		-160,
+		660
+	],
+	"healthicon": "planet",
+	"flip_x": false,
+	"healthbar_colors": [
+		230,
+		144,
+		0
+	],
+	"camera_position": [
+		520,
+		170
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

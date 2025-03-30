@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="candybar TIRD.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tird down instance 10000" x="1189" y="453" width="343" height="406" frameX="-1" frameY="-8" frameWidth="344" frameHeight="414"/>
+	<SubTexture name="tird down instance 10001" x="1189" y="453" width="343" height="406" frameX="-1" frameY="-8" frameWidth="344" frameHeight="414"/>
+	<SubTexture name="tird down instance 10002" x="1189" y="866" width="335" height="413" frameX="0" frameY="0" frameWidth="344" frameHeight="414"/>
+	<SubTexture name="tird down instance 10003" x="1189" y="866" width="335" height="413" frameX="0" frameY="0" frameWidth="344" frameHeight="414"/>
+	<SubTexture name="tird down instance 10004" x="1189" y="866" width="335" height="413" frameX="0" frameY="0" frameWidth="344" frameHeight="414"/>
+	<SubTexture name="tird down instance 10005" x="1189" y="866" width="335" height="413" frameX="0" frameY="0" frameWidth="344" frameHeight="414"/>
+	<SubTexture name="tird down instance 10006" x="1189" y="866" width="335" height="413" frameX="0" frameY="0" frameWidth="344" frameHeight="414"/>
+	<SubTexture name="tird down instance 10007" x="1189" y="866" width="335" height="413" frameX="0" frameY="0" frameWidth="344" frameHeight="414"/>
+	<SubTexture name="tird idle instance 10000" x="402" y="1360" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10001" x="402" y="1360" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10002" x="758" y="1360" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10003" x="758" y="1360" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10004" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10005" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10006" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10007" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10008" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10009" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10010" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10011" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10012" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10013" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10014" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10015" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10016" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10017" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10018" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10019" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10020" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10021" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10022" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10023" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10024" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10025" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10026" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10027" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10028" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10029" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10030" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10031" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10032" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10033" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10034" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10035" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10036" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10037" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10038" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10039" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10040" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10041" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10042" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10043" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10044" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10045" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10046" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird idle instance 10047" x="833" y="890" width="349" height="415"/>
+	<SubTexture name="tird left instance 10000" x="436" y="453" width="392" height="430" frameX="-6" frameY="0" frameWidth="398" frameHeight="430"/>
+	<SubTexture name="tird left instance 10001" x="436" y="453" width="392" height="430" frameX="-6" frameY="0" frameWidth="398" frameHeight="430"/>
+	<SubTexture name="tird left instance 10002" x="7" y="1360" width="388" height="424" frameX="0" frameY="-6" frameWidth="398" frameHeight="430"/>
+	<SubTexture name="tird left instance 10003" x="7" y="1360" width="388" height="424" frameX="0" frameY="-6" frameWidth="398" frameHeight="430"/>
+	<SubTexture name="tird left instance 10004" x="7" y="1360" width="388" height="424" frameX="0" frameY="-6" frameWidth="398" frameHeight="430"/>
+	<SubTexture name="tird left instance 10005" x="7" y="1360" width="388" height="424" frameX="0" frameY="-6" frameWidth="398" frameHeight="430"/>
+	<SubTexture name="tird left instance 10006" x="7" y="1360" width="388" height="424" frameX="0" frameY="-6" frameWidth="398" frameHeight="430"/>
+	<SubTexture name="tird left instance 10007" x="7" y="1360" width="388" height="424" frameX="0" frameY="-6" frameWidth="398" frameHeight="430"/>
+	<SubTexture name="tird right instance 10000" x="835" y="453" width="324" height="430" frameX="-2" frameY="0" frameWidth="326" frameHeight="430"/>
+	<SubTexture name="tird right instance 10001" x="835" y="453" width="324" height="430" frameX="-2" frameY="0" frameWidth="326" frameHeight="430"/>
+	<SubTexture name="tird right instance 10002" x="1189" y="1286" width="316" height="418" frameX="0" frameY="-12" frameWidth="326" frameHeight="430"/>
+	<SubTexture name="tird right instance 10003" x="1189" y="1286" width="316" height="418" frameX="0" frameY="-12" frameWidth="326" frameHeight="430"/>
+	<SubTexture name="tird right instance 10004" x="1189" y="1286" width="316" height="418" frameX="0" frameY="-12" frameWidth="326" frameHeight="430"/>
+	<SubTexture name="tird right instance 10005" x="1189" y="1286" width="316" height="418" frameX="0" frameY="-12" frameWidth="326" frameHeight="430"/>
+	<SubTexture name="tird right instance 10006" x="1189" y="1286" width="316" height="418" frameX="0" frameY="-12" frameWidth="326" frameHeight="430"/>
+	<SubTexture name="tird right instance 10007" x="1189" y="1286" width="316" height="418" frameX="0" frameY="-12" frameWidth="326" frameHeight="430"/>
+	<SubTexture name="tird up instance 10000" x="7" y="899" width="406" height="454" frameX="0" frameY="0" frameWidth="423" frameHeight="456"/>
+	<SubTexture name="tird up instance 10001" x="420" y="899" width="406" height="454" frameX="0" frameY="0" frameWidth="423" frameHeight="456"/>
+	<SubTexture name="tird up instance 10002" x="7" y="7" width="422" height="439" frameX="-1" frameY="-17" frameWidth="423" frameHeight="456"/>
+	<SubTexture name="tird up instance 10003" x="436" y="7" width="422" height="439" frameX="-1" frameY="-17" frameWidth="423" frameHeight="456"/>
+	<SubTexture name="tird up instance 10004" x="865" y="7" width="422" height="439" frameX="-1" frameY="-17" frameWidth="423" frameHeight="456"/>
+	<SubTexture name="tird up instance 10005" x="7" y="453" width="422" height="439" frameX="-1" frameY="-17" frameWidth="423" frameHeight="456"/>
+	<SubTexture name="tird up instance 10006" x="7" y="7" width="422" height="439" frameX="-1" frameY="-17" frameWidth="423" frameHeight="456"/>
+	<SubTexture name="tird up instance 10007" x="436" y="7" width="422" height="439" frameX="-1" frameY="-17" frameWidth="423" frameHeight="456"/>
+</TextureAtlas>

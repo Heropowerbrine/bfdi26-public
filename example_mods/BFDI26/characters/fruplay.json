@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				752,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fru down instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				705,
+				-43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fru up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				773,
+				-92
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fru left instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				720,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fru idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				684,
+				-99
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fru right instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				802,
+				-93
+			],
+			"anim": "miss",
+			"fps": 24,
+			"name": "fru miss instance 1",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/fru playable",
+	"position": [
+		-455,
+		-70
+	],
+	"healthicon": "fru",
+	"flip_x": true,
+	"healthbar_colors": [
+		246,
+		207,
+		161
+	],
+	"camera_position": [
+		230,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

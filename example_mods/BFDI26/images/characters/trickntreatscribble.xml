@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trickntreatscribble.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="12" y="12" width="398" height="497"/>
+	<SubTexture name="down0001" x="12" y="12" width="398" height="497"/>
+	<SubTexture name="down0002" x="418" y="12" width="398" height="497"/>
+	<SubTexture name="down0003" x="418" y="12" width="398" height="497"/>
+	<SubTexture name="idle0000" x="824" y="12" width="478" height="495"/>
+	<SubTexture name="left0000" x="12" y="517" width="505" height="508"/>
+	<SubTexture name="left0001" x="12" y="517" width="505" height="508"/>
+	<SubTexture name="left0002" x="525" y="517" width="505" height="508"/>
+	<SubTexture name="left0003" x="525" y="517" width="505" height="508"/>
+	<SubTexture name="miss0000" x="12" y="1033" width="423" height="485"/>
+	<SubTexture name="miss0001" x="12" y="1033" width="423" height="485"/>
+	<SubTexture name="right0000" x="443" y="1033" width="396" height="452"/>
+	<SubTexture name="right0001" x="443" y="1033" width="396" height="452"/>
+	<SubTexture name="right0002" x="847" y="1033" width="396" height="452"/>
+	<SubTexture name="right0003" x="847" y="1033" width="396" height="452"/>
+	<SubTexture name="up0000" x="12" y="1526" width="482" height="488"/>
+	<SubTexture name="up0001" x="12" y="1526" width="482" height="488"/>
+	<SubTexture name="up0002" x="502" y="1526" width="482" height="488"/>
+	<SubTexture name="up0003" x="502" y="1526" width="482" height="488"/>
+</TextureAtlas>

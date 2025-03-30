@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fru playable.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fru down instance 10000" x="3915" y="7" width="704" height="796" frameX="0" frameY="-16" frameWidth="705" frameHeight="825"/>
+	<SubTexture name="fru down instance 10001" x="3915" y="7" width="704" height="796" frameX="0" frameY="-16" frameWidth="705" frameHeight="825"/>
+	<SubTexture name="fru down instance 10002" x="3207" y="7" width="701" height="820" frameX="-4" frameY="-5" frameWidth="705" frameHeight="825"/>
+	<SubTexture name="fru down instance 10003" x="3207" y="7" width="701" height="820" frameX="-4" frameY="-5" frameWidth="705" frameHeight="825"/>
+	<SubTexture name="fru down instance 10004" x="823" y="1687" width="697" height="825" frameX="-6" frameY="0" frameWidth="705" frameHeight="825"/>
+	<SubTexture name="fru down instance 10005" x="823" y="1687" width="697" height="825" frameX="-6" frameY="0" frameWidth="705" frameHeight="825"/>
+	<SubTexture name="fru down instance 10006" x="823" y="856" width="699" height="824" frameX="-5" frameY="-1" frameWidth="705" frameHeight="825"/>
+	<SubTexture name="fru down instance 10007" x="823" y="856" width="699" height="824" frameX="-5" frameY="-1" frameWidth="705" frameHeight="825"/>
+	<SubTexture name="fru down instance 10008" x="823" y="1687" width="697" height="825" frameX="-6" frameY="0" frameWidth="705" frameHeight="825"/>
+	<SubTexture name="fru down instance 10009" x="823" y="1687" width="697" height="825" frameX="-6" frameY="0" frameWidth="705" frameHeight="825"/>
+	<SubTexture name="fru idle instance 10000" x="2204" y="819" width="663" height="832" frameX="-2" frameY="-1" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10001" x="2204" y="819" width="663" height="832" frameX="-2" frameY="-1" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10002" x="2204" y="819" width="663" height="832" frameX="-2" frameY="-1" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10003" x="2204" y="819" width="663" height="832" frameX="-2" frameY="-1" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10004" x="2204" y="819" width="663" height="832" frameX="-2" frameY="-1" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10005" x="2204" y="819" width="663" height="832" frameX="-2" frameY="-1" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10006" x="2204" y="819" width="663" height="832" frameX="-2" frameY="-1" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10007" x="1529" y="856" width="668" height="832" frameX="0" frameY="0" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10008" x="1529" y="856" width="668" height="832" frameX="0" frameY="0" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10009" x="1529" y="856" width="668" height="832" frameX="0" frameY="0" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10010" x="1529" y="856" width="668" height="832" frameX="0" frameY="0" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10011" x="1529" y="856" width="668" height="832" frameX="0" frameY="0" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10012" x="1529" y="856" width="668" height="832" frameX="0" frameY="0" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru idle instance 10013" x="1529" y="856" width="668" height="832" frameX="0" frameY="0" frameWidth="668" frameHeight="833"/>
+	<SubTexture name="fru left instance 10000" x="4085" y="1682" width="634" height="826" frameX="0" frameY="0" frameWidth="640" frameHeight="844"/>
+	<SubTexture name="fru left instance 10001" x="4085" y="1682" width="634" height="826" frameX="0" frameY="0" frameWidth="640" frameHeight="844"/>
+	<SubTexture name="fru left instance 10002" x="2819" y="1682" width="626" height="838" frameX="-12" frameY="-6" frameWidth="640" frameHeight="844"/>
+	<SubTexture name="fru left instance 10003" x="2819" y="1682" width="626" height="838" frameX="-12" frameY="-6" frameWidth="640" frameHeight="844"/>
+	<SubTexture name="fru left instance 10004" x="2186" y="1695" width="626" height="839" frameX="-14" frameY="-5" frameWidth="640" frameHeight="844"/>
+	<SubTexture name="fru left instance 10005" x="2186" y="1695" width="626" height="839" frameX="-14" frameY="-5" frameWidth="640" frameHeight="844"/>
+	<SubTexture name="fru left instance 10006" x="3452" y="1682" width="626" height="838" frameX="-14" frameY="-6" frameWidth="640" frameHeight="844"/>
+	<SubTexture name="fru left instance 10007" x="3452" y="1682" width="626" height="838" frameX="-14" frameY="-6" frameWidth="640" frameHeight="844"/>
+	<SubTexture name="fru left instance 10008" x="2186" y="1695" width="626" height="839" frameX="-14" frameY="-5" frameWidth="640" frameHeight="844"/>
+	<SubTexture name="fru left instance 10009" x="2186" y="1695" width="626" height="839" frameX="-14" frameY="-5" frameWidth="640" frameHeight="844"/>
+	<SubTexture name="fru miss instance 10000" x="2413" y="7" width="787" height="803" frameX="0" frameY="-1" frameWidth="787" frameHeight="805"/>
+	<SubTexture name="fru miss instance 10001" x="2413" y="7" width="787" height="803" frameX="0" frameY="-1" frameWidth="787" frameHeight="805"/>
+	<SubTexture name="fru miss instance 10002" x="2413" y="7" width="787" height="803" frameX="0" frameY="-1" frameWidth="787" frameHeight="805"/>
+	<SubTexture name="fru miss instance 10003" x="2413" y="7" width="787" height="803" frameX="0" frameY="-1" frameWidth="787" frameHeight="805"/>
+	<SubTexture name="fru miss instance 10004" x="1619" y="7" width="787" height="805"/>
+	<SubTexture name="fru miss instance 10005" x="1619" y="7" width="787" height="805"/>
+	<SubTexture name="fru miss instance 10006" x="1619" y="7" width="787" height="805"/>
+	<SubTexture name="fru miss instance 10007" x="1619" y="7" width="787" height="805"/>
+	<SubTexture name="fru right instance 10000" x="825" y="7" width="787" height="842" frameX="-15" frameY="0" frameWidth="811" frameHeight="848"/>
+	<SubTexture name="fru right instance 10001" x="825" y="7" width="787" height="842" frameX="-15" frameY="0" frameWidth="811" frameHeight="848"/>
+	<SubTexture name="fru right instance 10002" x="7" y="853" width="809" height="841" frameX="-2" frameY="-7" frameWidth="811" frameHeight="848"/>
+	<SubTexture name="fru right instance 10003" x="7" y="853" width="809" height="841" frameX="-2" frameY="-7" frameWidth="811" frameHeight="848"/>
+	<SubTexture name="fru right instance 10004" x="7" y="7" width="811" height="839" frameX="0" frameY="-8" frameWidth="811" frameHeight="848"/>
+	<SubTexture name="fru right instance 10005" x="7" y="7" width="811" height="839" frameX="0" frameY="-8" frameWidth="811" frameHeight="848"/>
+	<SubTexture name="fru right instance 10006" x="7" y="1701" width="809" height="840" frameX="-1" frameY="-7" frameWidth="811" frameHeight="848"/>
+	<SubTexture name="fru right instance 10007" x="7" y="1701" width="809" height="840" frameX="-1" frameY="-7" frameWidth="811" frameHeight="848"/>
+	<SubTexture name="fru right instance 10008" x="7" y="7" width="811" height="839" frameX="0" frameY="-8" frameWidth="811" frameHeight="848"/>
+	<SubTexture name="fru right instance 10009" x="7" y="7" width="811" height="839" frameX="0" frameY="-8" frameWidth="811" frameHeight="848"/>
+	<SubTexture name="fru up instance 10000" x="4198" y="810" width="636" height="851" frameX="-4" frameY="0" frameWidth="655" frameHeight="874"/>
+	<SubTexture name="fru up instance 10001" x="4198" y="810" width="636" height="851" frameX="-4" frameY="0" frameWidth="655" frameHeight="874"/>
+	<SubTexture name="fru up instance 10002" x="1527" y="1695" width="652" height="847" frameX="-2" frameY="-27" frameWidth="655" frameHeight="874"/>
+	<SubTexture name="fru up instance 10003" x="1527" y="1695" width="652" height="847" frameX="-2" frameY="-27" frameWidth="655" frameHeight="874"/>
+	<SubTexture name="fru up instance 10004" x="2874" y="834" width="655" height="841" frameX="0" frameY="-33" frameWidth="655" frameHeight="874"/>
+	<SubTexture name="fru up instance 10005" x="2874" y="834" width="655" height="841" frameX="0" frameY="-33" frameWidth="655" frameHeight="874"/>
+	<SubTexture name="fru up instance 10006" x="3536" y="834" width="655" height="841" frameX="0" frameY="-32" frameWidth="655" frameHeight="874"/>
+	<SubTexture name="fru up instance 10007" x="3536" y="834" width="655" height="841" frameX="0" frameY="-32" frameWidth="655" frameHeight="874"/>
+	<SubTexture name="fru up instance 10008" x="2874" y="834" width="655" height="841" frameX="0" frameY="-33" frameWidth="655" frameHeight="874"/>
+	<SubTexture name="fru up instance 10009" x="2874" y="834" width="655" height="841" frameX="0" frameY="-33" frameWidth="655" frameHeight="874"/>
+</TextureAtlas>

@@ -1,0 +1,112 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1176,
+				575
+			],
+			"anim": "idleBlink",
+			"fps": 24,
+			"name": "db idle blinker",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1176,
+				575
+			],
+			"anim": "idleTrans",
+			"fps": 24,
+			"name": "db transition to talk",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1176,
+				575
+			],
+			"anim": "idleTalk",
+			"fps": 24,
+			"name": "db talk idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1176,
+				575
+			],
+			"anim": "idleTrans2",
+			"fps": 24,
+			"name": "db transition to idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1176,
+				575
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"fps": 24,
+			"anim": "idlenew",
+			"loop": true,
+			"name": "db idle"
+		},
+		{
+			"offsets": [
+				1177,
+				575
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idleAlt",
+			"loop": true,
+			"name": "db idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "menus/freeplay/DB/db",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

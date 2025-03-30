@@ -1,0 +1,50 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "knife",
+			"loop": false,
+			"name": "transition instance 1"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"indices": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "transition instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/underway/gpsone/gps transition to alt",
+	"position": [
+		-400,
+		-350
+	],
+	"healthicon": "gps",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		43,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

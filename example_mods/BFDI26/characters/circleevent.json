@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				970,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Awesome",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/wellroundedcircleevent",
+	"position": [
+		40,
+		480
+	],
+	"healthicon": "circle",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-180,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

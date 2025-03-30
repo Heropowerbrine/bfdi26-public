@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				723,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fru planet idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				729,
+				-103
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fru p down instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				720,
+				-88
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fru p up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				773,
+				-102
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fru p left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				731,
+				-95
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fru p right instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				732,
+				-97
+			],
+			"anim": "miss",
+			"fps": 24,
+			"name": "fru p miss instance 1",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/help-me/planet fru",
+	"position": [
+		455,
+		370
+	],
+	"healthicon": "fru",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		207,
+		161
+	],
+	"camera_position": [
+		-1010,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

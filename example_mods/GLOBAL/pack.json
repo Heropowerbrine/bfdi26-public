@@ -1,0 +1,7 @@
+{
+	"name": "global pack",
+	"description": "",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [115, 94, 176]
+}

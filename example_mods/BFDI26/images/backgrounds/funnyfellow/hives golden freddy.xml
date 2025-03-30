@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hives golden freddy.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hives instance 10000" x="7" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10001" x="7" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10002" x="7" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10003" x="7" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10004" x="7" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10005" x="7" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10006" x="7" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10007" x="207" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10008" x="207" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10009" x="207" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10010" x="207" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10011" x="207" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10012" x="207" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10013" x="207" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10014" x="407" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10015" x="407" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10016" x="407" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10017" x="407" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10018" x="407" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10019" x="407" y="7" width="193" height="166"/>
+	<SubTexture name="hives instance 10020" x="407" y="7" width="193" height="166"/>
+</TextureAtlas>

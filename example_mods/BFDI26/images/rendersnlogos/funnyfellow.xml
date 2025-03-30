@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="funnyfellowtitle.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 30000" x="12" y="12" width="372" height="233"/>
+	<SubTexture name="Symbol 30001" x="12" y="12" width="372" height="233"/>
+	<SubTexture name="Symbol 30002" x="12" y="253" width="372" height="233"/>
+	<SubTexture name="Symbol 30003" x="12" y="253" width="372" height="233"/>
+</TextureAtlas>

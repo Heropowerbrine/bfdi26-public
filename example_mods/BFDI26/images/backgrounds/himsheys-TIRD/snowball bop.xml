@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snowball bop.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snoball instance 10000" x="7" y="465" width="333" height="444" frameX="0" frameY="-7" frameWidth="333" frameHeight="451"/>
+	<SubTexture name="snoball instance 10001" x="7" y="465" width="333" height="444" frameX="0" frameY="-7" frameWidth="333" frameHeight="451"/>
+	<SubTexture name="snoball instance 10002" x="347" y="464" width="333" height="447" frameX="0" frameY="-4" frameWidth="333" frameHeight="451"/>
+	<SubTexture name="snoball instance 10003" x="347" y="464" width="333" height="447" frameX="0" frameY="-4" frameWidth="333" frameHeight="451"/>
+	<SubTexture name="snoball instance 10004" x="347" y="7" width="333" height="450" frameX="0" frameY="-1" frameWidth="333" frameHeight="451"/>
+	<SubTexture name="snoball instance 10005" x="347" y="7" width="333" height="450" frameX="0" frameY="-1" frameWidth="333" frameHeight="451"/>
+	<SubTexture name="snoball instance 10006" x="7" y="7" width="333" height="451"/>
+	<SubTexture name="snoball instance 10007" x="7" y="7" width="333" height="451"/>
+	<SubTexture name="snoball instance 10008" x="7" y="7" width="333" height="451"/>
+	<SubTexture name="snoball instance 10009" x="7" y="7" width="333" height="451"/>
+	<SubTexture name="snoball instance 10010" x="7" y="7" width="333" height="451"/>
+	<SubTexture name="snoball instance 10011" x="7" y="7" width="333" height="451"/>
+	<SubTexture name="snoball instance 10012" x="7" y="7" width="333" height="451"/>
+	<SubTexture name="snoball instance 10013" x="7" y="7" width="333" height="451"/>
+</TextureAtlas>

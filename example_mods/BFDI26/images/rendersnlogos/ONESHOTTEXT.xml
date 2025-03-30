@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oneshottitle.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 3 copy 20000" x="12" y="12" width="422" height="146"/>
+	<SubTexture name="Symbol 3 copy 20001" x="12" y="12" width="422" height="146"/>
+	<SubTexture name="Symbol 3 copy 20002" x="12" y="12" width="422" height="146"/>
+	<SubTexture name="Symbol 3 copy 20003" x="12" y="166" width="422" height="146"/>
+	<SubTexture name="Symbol 3 copy 20004" x="12" y="166" width="422" height="146"/>
+	<SubTexture name="Symbol 3 copy 20005" x="12" y="166" width="422" height="146"/>
+</TextureAtlas>

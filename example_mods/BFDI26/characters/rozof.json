@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				712,
+				-172
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "roz down instance 1"
+		},
+		{
+			"offsets": [
+				745,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "roz up instance 1"
+		},
+		{
+			"offsets": [
+				833,
+				-72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "roz left instance 1"
+		},
+		{
+			"offsets": [
+				694,
+				-117
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "roz right instance 1"
+		},
+		{
+			"offsets": [
+				781,
+				-94
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "miss",
+			"loop": false,
+			"name": "roz miss instance 1"
+		},
+		{
+			"offsets": [
+				833,
+				-57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": false,
+			"name": "roz scare instance 1"
+		},
+		{
+			"offsets": [
+				726,
+				-149
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "roz alt idle instance 1"
+		},
+		{
+			"offsets": [
+				720,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "roz idle instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/rozz office assets",
+	"position": [
+		50,
+		20
+	],
+	"healthicon": "roz",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		216,
+		250
+	],
+	"camera_position": [
+		-100,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

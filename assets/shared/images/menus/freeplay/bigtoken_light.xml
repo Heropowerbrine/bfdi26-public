@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="big tokens for dark mode.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gold token instance 10000" x="960" y="357" width="165" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10001" x="1537" y="358" width="165" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10002" x="1132" y="359" width="165" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10003" x="209" y="197" width="166" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10004" x="787" y="185" width="167" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10005" x="961" y="185" width="167" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10006" x="7" y="198" width="166" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10007" x="787" y="357" width="166" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10008" x="1304" y="359" width="165" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10009" x="382" y="360" width="165" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10010" x="554" y="360" width="165" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10011" x="1709" y="360" width="165" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10012" x="180" y="369" width="165" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10013" x="7" y="370" width="165" height="165" frameX="-21" frameY="-19" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10014" x="209" y="7" width="195" height="183" frameX="0" frameY="-1" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10015" x="7" y="7" width="195" height="184"/>
+	<SubTexture name="gold token instance 10016" x="411" y="7" width="181" height="171" frameX="-5" frameY="-13" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10017" x="599" y="7" width="181" height="171" frameX="-5" frameY="-13" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10018" x="1353" y="7" width="182" height="169" frameX="-4" frameY="-15" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10019" x="1163" y="7" width="183" height="169" frameX="-3" frameY="-15" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10020" x="1542" y="7" width="183" height="168" frameX="-3" frameY="-16" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10021" x="411" y="185" width="181" height="168" frameX="-5" frameY="-16" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10022" x="599" y="185" width="181" height="168" frameX="-5" frameY="-16" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10023" x="1163" y="183" width="180" height="169" frameX="-6" frameY="-15" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10024" x="1350" y="183" width="180" height="169" frameX="-6" frameY="-15" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10025" x="1732" y="7" width="180" height="170" frameX="-6" frameY="-14" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10026" x="787" y="7" width="181" height="171" frameX="-5" frameY="-13" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10027" x="975" y="7" width="181" height="171" frameX="-5" frameY="-13" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10028" x="1730" y="184" width="180" height="169" frameX="-6" frameY="-15" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="gold token instance 10029" x="1542" y="182" width="181" height="169" frameX="-5" frameY="-15" frameWidth="195" frameHeight="184"/>
+	<SubTexture name="no token instance 10000" x="1720" y="874" width="159" height="161"/>
+	<SubTexture name="win token instance 10000" x="726" y="529" width="164" height="164"/>
+	<SubTexture name="win token instance 10001" x="897" y="529" width="164" height="164"/>
+	<SubTexture name="win token instance 10002" x="1476" y="530" width="164" height="164"/>
+	<SubTexture name="win token instance 10003" x="1068" y="531" width="164" height="164"/>
+	<SubTexture name="win token instance 10004" x="1239" y="531" width="164" height="164"/>
+	<SubTexture name="win token instance 10005" x="352" y="532" width="164" height="164"/>
+	<SubTexture name="win token instance 10006" x="523" y="532" width="164" height="164"/>
+	<SubTexture name="win token instance 10007" x="1647" y="532" width="164" height="164"/>
+	<SubTexture name="win token instance 10008" x="1818" y="532" width="164" height="164"/>
+	<SubTexture name="win token instance 10009" x="179" y="541" width="164" height="164"/>
+	<SubTexture name="win token instance 10010" x="7" y="542" width="164" height="164"/>
+	<SubTexture name="win token instance 10011" x="694" y="700" width="164" height="164"/>
+	<SubTexture name="win token instance 10012" x="865" y="700" width="164" height="164"/>
+	<SubTexture name="win token instance 10013" x="1410" y="701" width="164" height="164"/>
+	<SubTexture name="win token instance 10014" x="1036" y="702" width="164" height="164"/>
+	<SubTexture name="win token instance 10015" x="1207" y="702" width="164" height="164"/>
+	<SubTexture name="win token instance 10016" x="350" y="703" width="164" height="164"/>
+	<SubTexture name="win token instance 10017" x="521" y="703" width="164" height="164"/>
+	<SubTexture name="win token instance 10018" x="1581" y="703" width="164" height="164"/>
+	<SubTexture name="win token instance 10019" x="1752" y="703" width="164" height="164"/>
+	<SubTexture name="win token instance 10020" x="178" y="712" width="164" height="164"/>
+	<SubTexture name="win token instance 10021" x="7" y="713" width="164" height="164"/>
+	<SubTexture name="win token instance 10022" x="692" y="871" width="164" height="164"/>
+	<SubTexture name="win token instance 10023" x="863" y="871" width="164" height="164"/>
+	<SubTexture name="win token instance 10024" x="1378" y="872" width="164" height="164"/>
+	<SubTexture name="win token instance 10025" x="1034" y="873" width="164" height="164"/>
+	<SubTexture name="win token instance 10026" x="1205" y="873" width="164" height="164"/>
+	<SubTexture name="win token instance 10027" x="349" y="874" width="164" height="164"/>
+	<SubTexture name="win token instance 10028" x="520" y="874" width="164" height="164"/>
+	<SubTexture name="win token instance 10029" x="1549" y="874" width="164" height="164"/>
+</TextureAtlas>

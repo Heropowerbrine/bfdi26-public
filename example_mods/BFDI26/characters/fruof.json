@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-430,
+				-255
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fru idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-429,
+				-256
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "fru idle roz instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-322,
+				-203
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": false,
+			"name": "fru scare instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/fru office assets",
+	"position": [
+		-480,
+		-60
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		250,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

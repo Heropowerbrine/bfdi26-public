@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tbbop.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tb10000" x="12" y="12" width="404" height="445"/>
+	<SubTexture name="tb10001" x="12" y="12" width="404" height="445"/>
+	<SubTexture name="tb10002" x="424" y="12" width="404" height="445"/>
+	<SubTexture name="tb10003" x="424" y="12" width="404" height="445"/>
+	<SubTexture name="tb10004" x="836" y="12" width="404" height="445"/>
+	<SubTexture name="tb10005" x="836" y="12" width="404" height="445"/>
+	<SubTexture name="tb10006" x="1248" y="12" width="404" height="445"/>
+	<SubTexture name="tb10007" x="1248" y="12" width="404" height="445"/>
+	<SubTexture name="tb10008" x="1660" y="12" width="404" height="445"/>
+	<SubTexture name="tb10009" x="1660" y="12" width="404" height="445"/>
+	<SubTexture name="tb10010" x="1660" y="12" width="404" height="445"/>
+	<SubTexture name="tb10011" x="1660" y="12" width="404" height="445"/>
+	<SubTexture name="tb10012" x="1660" y="12" width="404" height="445"/>
+	<SubTexture name="tb10013" x="1660" y="12" width="404" height="445"/>
+	<SubTexture name="tb20000" x="12" y="465" width="404" height="445"/>
+	<SubTexture name="tb20001" x="12" y="465" width="404" height="445"/>
+	<SubTexture name="tb20002" x="424" y="465" width="404" height="445"/>
+	<SubTexture name="tb20003" x="424" y="465" width="404" height="445"/>
+	<SubTexture name="tb20004" x="836" y="465" width="404" height="445"/>
+	<SubTexture name="tb20005" x="836" y="465" width="404" height="445"/>
+	<SubTexture name="tb20006" x="1248" y="465" width="404" height="445"/>
+	<SubTexture name="tb20007" x="1248" y="465" width="404" height="445"/>
+	<SubTexture name="tb20008" x="1660" y="465" width="404" height="445"/>
+	<SubTexture name="tb20009" x="1660" y="465" width="404" height="445"/>
+	<SubTexture name="tb20010" x="1660" y="465" width="404" height="445"/>
+	<SubTexture name="tb20011" x="1660" y="465" width="404" height="445"/>
+	<SubTexture name="tb20012" x="1660" y="465" width="404" height="445"/>
+	<SubTexture name="tb20013" x="1660" y="465" width="404" height="445"/>
+</TextureAtlas>

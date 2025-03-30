@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="planet roz.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="roz p down instance 10000" x="165" y="545" width="174" height="201" frameX="0" frameY="-9" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10001" x="165" y="545" width="174" height="201" frameX="0" frameY="-9" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10002" x="755" y="266" width="170" height="207" frameX="-5" frameY="-1" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10003" x="755" y="266" width="170" height="207" frameX="-5" frameY="-1" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10004" x="755" y="480" width="169" height="208" frameX="-5" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10005" x="755" y="480" width="169" height="208" frameX="-5" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10006" x="755" y="480" width="169" height="208" frameX="-5" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10007" x="755" y="480" width="169" height="208" frameX="-5" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10008" x="755" y="480" width="169" height="208" frameX="-5" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10009" x="755" y="480" width="169" height="208" frameX="-5" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10010" x="755" y="480" width="169" height="208" frameX="-5" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10011" x="755" y="480" width="169" height="208" frameX="-5" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10012" x="755" y="480" width="169" height="208" frameX="-5" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p down instance 10013" x="755" y="480" width="169" height="208" frameX="-5" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="roz p left instance 10000" x="7" y="7" width="174" height="249" frameX="0" frameY="-3" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10001" x="7" y="7" width="174" height="249" frameX="0" frameY="-3" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10002" x="516" y="7" width="161" height="252" frameX="-9" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10003" x="516" y="7" width="161" height="252" frameX="-9" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10004" x="684" y="7" width="160" height="252" frameX="-10" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10005" x="684" y="7" width="160" height="252" frameX="-10" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10006" x="684" y="7" width="160" height="252" frameX="-10" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10007" x="684" y="7" width="160" height="252" frameX="-10" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10008" x="684" y="7" width="160" height="252" frameX="-10" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10009" x="684" y="7" width="160" height="252" frameX="-10" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10010" x="684" y="7" width="160" height="252" frameX="-10" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10011" x="684" y="7" width="160" height="252" frameX="-10" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10012" x="684" y="7" width="160" height="252" frameX="-10" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p left instance 10013" x="684" y="7" width="160" height="252" frameX="-10" frameY="0" frameWidth="174" frameHeight="252"/>
+	<SubTexture name="roz p right instance 10000" x="7" y="545" width="151" height="257"/>
+	<SubTexture name="roz p right instance 10001" x="7" y="545" width="151" height="257"/>
+	<SubTexture name="roz p right instance 10002" x="320" y="276" width="141" height="257" frameX="-4" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p right instance 10003" x="320" y="276" width="141" height="257" frameX="-4" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p right instance 10004" x="170" y="274" width="143" height="257" frameX="-1" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p right instance 10005" x="170" y="274" width="143" height="257" frameX="-1" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p right instance 10006" x="170" y="274" width="143" height="257" frameX="-1" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p right instance 10007" x="170" y="274" width="143" height="257" frameX="-1" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p right instance 10008" x="170" y="274" width="143" height="257" frameX="-1" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p right instance 10009" x="170" y="274" width="143" height="257" frameX="-1" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p right instance 10010" x="170" y="274" width="143" height="257" frameX="-1" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p right instance 10011" x="170" y="274" width="143" height="257" frameX="-1" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p right instance 10012" x="170" y="274" width="143" height="257" frameX="-1" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p right instance 10013" x="170" y="274" width="143" height="257" frameX="-1" frameY="0" frameWidth="151" frameHeight="257"/>
+	<SubTexture name="roz p up instance 10000" x="7" y="263" width="156" height="275" frameX="0" frameY="0" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10001" x="7" y="263" width="156" height="275" frameX="0" frameY="0" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10002" x="353" y="7" width="156" height="262" frameX="-1" frameY="-13" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10003" x="353" y="7" width="156" height="262" frameX="-1" frameY="-13" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10004" x="188" y="7" width="158" height="260" frameX="0" frameY="-15" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10005" x="188" y="7" width="158" height="260" frameX="0" frameY="-15" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10006" x="188" y="7" width="158" height="260" frameX="0" frameY="-15" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10007" x="188" y="7" width="158" height="260" frameX="0" frameY="-15" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10008" x="188" y="7" width="158" height="260" frameX="0" frameY="-15" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10009" x="188" y="7" width="158" height="260" frameX="0" frameY="-15" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10010" x="188" y="7" width="158" height="260" frameX="0" frameY="-15" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10011" x="188" y="7" width="158" height="260" frameX="0" frameY="-15" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10012" x="188" y="7" width="158" height="260" frameX="0" frameY="-15" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz p up instance 10013" x="188" y="7" width="158" height="260" frameX="0" frameY="-15" frameWidth="158" frameHeight="275"/>
+	<SubTexture name="roz planet instance 10000" x="612" y="266" width="136" height="262" frameX="0" frameY="-1" frameWidth="137" frameHeight="264"/>
+	<SubTexture name="roz planet instance 10001" x="612" y="266" width="136" height="262" frameX="0" frameY="-1" frameWidth="137" frameHeight="264"/>
+	<SubTexture name="roz planet instance 10002" x="612" y="266" width="136" height="262" frameX="0" frameY="-1" frameWidth="137" frameHeight="264"/>
+	<SubTexture name="roz planet instance 10003" x="612" y="266" width="136" height="262" frameX="0" frameY="-1" frameWidth="137" frameHeight="264"/>
+	<SubTexture name="roz planet instance 10004" x="612" y="266" width="136" height="262" frameX="0" frameY="-1" frameWidth="137" frameHeight="264"/>
+	<SubTexture name="roz planet instance 10005" x="612" y="266" width="136" height="262" frameX="0" frameY="-1" frameWidth="137" frameHeight="264"/>
+	<SubTexture name="roz planet instance 10006" x="612" y="266" width="136" height="262" frameX="0" frameY="-1" frameWidth="137" frameHeight="264"/>
+	<SubTexture name="roz planet instance 10007" x="468" y="276" width="137" height="264"/>
+	<SubTexture name="roz planet instance 10008" x="468" y="276" width="137" height="264"/>
+	<SubTexture name="roz planet instance 10009" x="468" y="276" width="137" height="264"/>
+	<SubTexture name="roz planet instance 10010" x="468" y="276" width="137" height="264"/>
+	<SubTexture name="roz planet instance 10011" x="468" y="276" width="137" height="264"/>
+	<SubTexture name="roz planet instance 10012" x="468" y="276" width="137" height="264"/>
+	<SubTexture name="roz planet instance 10013" x="468" y="276" width="137" height="264"/>
+	<SubTexture name="rozz p miss instance 10000" x="346" y="547" width="132" height="255"/>
+	<SubTexture name="rozz p miss instance 10001" x="346" y="547" width="132" height="255"/>
+	<SubTexture name="rozz p miss instance 10002" x="346" y="547" width="132" height="255"/>
+	<SubTexture name="rozz p miss instance 10003" x="485" y="547" width="132" height="255"/>
+	<SubTexture name="rozz p miss instance 10004" x="485" y="547" width="132" height="255"/>
+	<SubTexture name="rozz p miss instance 10005" x="485" y="547" width="132" height="255"/>
+</TextureAtlas>

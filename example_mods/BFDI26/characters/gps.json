@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-632,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-290,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-545,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-465,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-867,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-591,
+				11
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "intro instance 1",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/underway/gpsone/gps kitchen regular",
+	"position": [
+		-400,
+		-350
+	],
+	"healthicon": "gps",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		43,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

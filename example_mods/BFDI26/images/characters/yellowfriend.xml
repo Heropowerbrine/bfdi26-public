@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yellowfriend.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle dance0000" x="12" y="12" width="379" height="443"/>
+	<SubTexture name="BF idle dance0001" x="12" y="12" width="379" height="443"/>
+	<SubTexture name="BF idle dance0002" x="12" y="463" width="379" height="443"/>
+	<SubTexture name="BF idle dance0003" x="12" y="463" width="379" height="443"/>
+	<SubTexture name="BF idle dance0004" x="12" y="914" width="379" height="443"/>
+	<SubTexture name="BF idle dance0005" x="12" y="914" width="379" height="443"/>
+	<SubTexture name="BF idle dance0006" x="12" y="1365" width="379" height="443"/>
+	<SubTexture name="BF idle dance0007" x="12" y="1365" width="379" height="443"/>
+	<SubTexture name="BF idle dance0008" x="12" y="1816" width="379" height="443"/>
+	<SubTexture name="BF idle dance0009" x="12" y="1816" width="379" height="443"/>
+	<SubTexture name="BF idle dance0010" x="12" y="1816" width="379" height="443"/>
+	<SubTexture name="BF idle dance0011" x="12" y="1816" width="379" height="443"/>
+	<SubTexture name="BF idle dance0012" x="12" y="1816" width="379" height="443"/>
+	<SubTexture name="BF idle dance0013" x="12" y="1816" width="379" height="443"/>
+</TextureAtlas>

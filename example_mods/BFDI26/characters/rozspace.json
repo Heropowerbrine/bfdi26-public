@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				716,
+				-142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "roz down instance 1"
+		},
+		{
+			"offsets": [
+				720,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "roz up instance 1"
+		},
+		{
+			"offsets": [
+				785,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "roz left instance 1"
+		},
+		{
+			"offsets": [
+				708,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "roz right instance 1"
+		},
+		{
+			"offsets": [
+				730,
+				-100
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "roz idle instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/roz ship non playable",
+	"position": [
+		1840,
+		-320
+	],
+	"healthicon": "roz",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		216,
+		250
+	],
+	"camera_position": [
+		-100,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

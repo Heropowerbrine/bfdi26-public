@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-412,
+				246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "boss down instance 1"
+		},
+		{
+			"offsets": [
+				-580,
+				337
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "boss idle instance 1"
+		},
+		{
+			"offsets": [
+				-377,
+				407
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "boss left instance 1"
+		},
+		{
+			"offsets": [
+				-599,
+				353
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "boss right instance 1"
+		},
+		{
+			"offsets": [
+				-406,
+				521
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "boss up instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/boss normal",
+	"position": [
+		150,
+		370
+	],
+	"healthicon": "boss",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		255,
+		180
+	],
+	"camera_position": [
+		-120,
+		50
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

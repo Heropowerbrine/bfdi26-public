@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf boiling.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 34 instance 10000" x="7" y="7" width="784" height="713" frameX="0" frameY="-1" frameWidth="784" frameHeight="714"/>
+	<SubTexture name="Symbol 34 instance 10001" x="7" y="7" width="784" height="713" frameX="0" frameY="-1" frameWidth="784" frameHeight="714"/>
+	<SubTexture name="Symbol 34 instance 10002" x="7" y="7" width="784" height="713" frameX="0" frameY="-1" frameWidth="784" frameHeight="714"/>
+	<SubTexture name="Symbol 34 instance 10003" x="7" y="7" width="784" height="713" frameX="0" frameY="-1" frameWidth="784" frameHeight="714"/>
+	<SubTexture name="Symbol 34 instance 10004" x="7" y="7" width="784" height="713" frameX="0" frameY="-1" frameWidth="784" frameHeight="714"/>
+	<SubTexture name="Symbol 34 instance 10005" x="7" y="7" width="784" height="713" frameX="0" frameY="-1" frameWidth="784" frameHeight="714"/>
+	<SubTexture name="Symbol 34 instance 10006" x="7" y="7" width="784" height="713" frameX="0" frameY="-1" frameWidth="784" frameHeight="714"/>
+	<SubTexture name="Symbol 34 instance 10007" x="7" y="7" width="784" height="713" frameX="0" frameY="-1" frameWidth="784" frameHeight="714"/>
+	<SubTexture name="Symbol 34 instance 10008" x="7" y="7" width="784" height="713" frameX="0" frameY="-1" frameWidth="784" frameHeight="714"/>
+	<SubTexture name="Symbol 34 instance 10009" x="7" y="7" width="784" height="713" frameX="0" frameY="-1" frameWidth="784" frameHeight="714"/>
+	<SubTexture name="Symbol 34 instance 10010" x="798" y="7" width="784" height="714"/>
+	<SubTexture name="Symbol 34 instance 10011" x="798" y="7" width="784" height="714"/>
+	<SubTexture name="Symbol 34 instance 10012" x="798" y="7" width="784" height="714"/>
+	<SubTexture name="Symbol 34 instance 10013" x="798" y="7" width="784" height="714"/>
+	<SubTexture name="Symbol 34 instance 10014" x="798" y="7" width="784" height="714"/>
+	<SubTexture name="Symbol 34 instance 10015" x="798" y="7" width="784" height="714"/>
+	<SubTexture name="Symbol 34 instance 10016" x="798" y="7" width="784" height="714"/>
+	<SubTexture name="Symbol 34 instance 10017" x="798" y="7" width="784" height="714"/>
+	<SubTexture name="Symbol 34 instance 10018" x="798" y="7" width="784" height="714"/>
+	<SubTexture name="Symbol 34 instance 10019" x="798" y="7" width="784" height="714"/>
+</TextureAtlas>

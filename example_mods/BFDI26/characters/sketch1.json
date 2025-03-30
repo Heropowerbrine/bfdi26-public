@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NORMALPOSES/SKETCHPAD/idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "NORMALPOSES/SKETCHPAD/altidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "speak",
+			"fps": 24,
+			"name": "NORMALPOSES/SKETCHPAD/voiceanimation",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NORMALPOSES/SKETCHPAD/altdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NORMALPOSES/SKETCHPAD/altup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NORMALPOSES/SKETCHPAD/altright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NORMALPOSES/SKETCHPAD/altleft",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/underway/sketchpadone",
+	"position": [
+		60,
+		530
+	],
+	"healthicon": "thnsp",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

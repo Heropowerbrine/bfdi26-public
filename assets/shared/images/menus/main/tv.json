@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "mainsongs",
+			"loop": true,
+			"name": "mainsongsSelect"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "freeplay",
+			"loop": true,
+			"name": "freeplaySelect"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "options",
+			"loop": true,
+			"name": "optionsSelect"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "credits",
+			"loop": true,
+			"name": "creditsSelect"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "website",
+			"loop": true,
+			"name": "websiteSelect"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "menus/main/tv",
+	"position": [
+		740,
+		310
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-120,
+		10
+	],
+	"sing_duration": 3.2,
+	"scale": 1.7,
+	"_editor_isPlayer": false
+}

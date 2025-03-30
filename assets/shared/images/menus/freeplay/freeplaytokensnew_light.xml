@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freeplaytokensnew dark.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gold token instance 10000" x="99" y="7" width="76" height="76" frameX="-9" frameY="-1" frameWidth="85" frameHeight="77"/>
+	<SubTexture name="gold token instance 10001" x="99" y="7" width="76" height="76" frameX="-9" frameY="-1" frameWidth="85" frameHeight="77"/>
+	<SubTexture name="gold token instance 10002" x="99" y="7" width="76" height="76" frameX="-9" frameY="-1" frameWidth="85" frameHeight="77"/>
+	<SubTexture name="gold token instance 10003" x="99" y="7" width="76" height="76" frameX="-9" frameY="-1" frameWidth="85" frameHeight="77"/>
+	<SubTexture name="gold token instance 10004" x="99" y="7" width="76" height="76" frameX="-9" frameY="-1" frameWidth="85" frameHeight="77"/>
+	<SubTexture name="gold token instance 10005" x="99" y="7" width="76" height="76" frameX="-9" frameY="-1" frameWidth="85" frameHeight="77"/>
+	<SubTexture name="gold token instance 10006" x="99" y="7" width="76" height="76" frameX="-9" frameY="-1" frameWidth="85" frameHeight="77"/>
+	<SubTexture name="gold token instance 10007" x="99" y="7" width="76" height="76" frameX="-9" frameY="-1" frameWidth="85" frameHeight="77"/>
+	<SubTexture name="gold token instance 10008" x="99" y="7" width="76" height="76" frameX="-9" frameY="-1" frameWidth="85" frameHeight="77"/>
+	<SubTexture name="gold token instance 10009" x="99" y="7" width="76" height="76" frameX="-9" frameY="-1" frameWidth="85" frameHeight="77"/>
+	<SubTexture name="gold token instance 10010" x="7" y="7" width="85" height="77"/>
+	<SubTexture name="gold token instance 10011" x="7" y="7" width="85" height="77"/>
+	<SubTexture name="gold token instance 10012" x="7" y="7" width="85" height="77"/>
+	<SubTexture name="gold token instance 10013" x="7" y="7" width="85" height="77"/>
+	<SubTexture name="gold token instance 10014" x="7" y="7" width="85" height="77"/>
+	<SubTexture name="gold token instance 10015" x="7" y="7" width="85" height="77"/>
+	<SubTexture name="gold token instance 10016" x="7" y="7" width="85" height="77"/>
+	<SubTexture name="gold token instance 10017" x="7" y="7" width="85" height="77"/>
+	<SubTexture name="gold token instance 10018" x="7" y="7" width="85" height="77"/>
+	<SubTexture name="gold token instance 10019" x="7" y="7" width="85" height="77"/>
+	<SubTexture name="no token instance 10000" x="7" y="91" width="75" height="76"/>
+	<SubTexture name="win token instance 10000" x="99" y="90" width="76" height="76"/>
+</TextureAtlas>

@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				56,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "kid named down instance 1"
+		},
+		{
+			"offsets": [
+				10,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "kid named idle instance 1"
+		},
+		{
+			"offsets": [
+				124,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "walking",
+			"loop": false,
+			"name": "kid named walking anim instance 1"
+		},
+		{
+			"offsets": [
+				-10,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "syskillend",
+			"loop": false,
+			"name": "kid named syskill return instance 1"
+		},
+		{
+			"offsets": [
+				45,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "syskill",
+			"loop": false,
+			"name": "kid named syskill instance 1"
+		},
+		{
+			"offsets": [
+				-37,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "kid named right instance 1"
+		},
+		{
+			"offsets": [
+				141,
+				94
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "kid named up instance 1"
+		},
+		{
+			"offsets": [
+				177,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "kid named left instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/carrot",
+	"position": [
+		10,
+		230
+	],
+	"healthicon": "gain",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		121,
+		59
+	],
+	"camera_position": [
+		-50,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

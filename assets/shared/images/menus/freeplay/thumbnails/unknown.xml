@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="unknown.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="unknown0000" x="7" y="7" width="340" height="191"/>
+	<SubTexture name="unknown0001" x="7" y="205" width="340" height="191"/>
+	<SubTexture name="unknown0002" x="7" y="403" width="340" height="191"/>
+	<SubTexture name="unknown0003" x="7" y="601" width="340" height="191"/>
+</TextureAtlas>

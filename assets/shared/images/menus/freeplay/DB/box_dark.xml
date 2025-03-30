@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="box_dark.png" width="6794" height="247">
+	<SubTexture name="box appear instance 10000" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10001" x="5" y="1" width="90" height="36" frameX="-410" frameY="-123" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10002" x="5" y="1" width="90" height="36" frameX="-410" frameY="-123" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10003" x="98" y="1" width="438" height="73" frameX="-229" frameY="-101" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10004" x="98" y="1" width="438" height="73" frameX="-229" frameY="-101" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10005" x="539" y="1" width="871" height="212" frameX="-7" frameY="-17" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10006" x="539" y="1" width="871" height="212" frameX="-7" frameY="-17" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10007" x="1413" y="1" width="893" height="238" frameX="-0" frameY="-5" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10008" x="1413" y="1" width="893" height="238" frameX="-0" frameY="-5" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10009" x="4100" y="1" width="895" height="245" frameX="-4" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10010" x="4100" y="1" width="895" height="245" frameX="-4" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10011" x="4998" y="1" width="896" height="245" frameX="-3" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10012" x="4998" y="1" width="896" height="245" frameX="-3" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10013" x="4998" y="1" width="896" height="245" frameX="-3" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box appear instance 10014" x="4998" y="1" width="896" height="245" frameX="-3" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10000" x="4998" y="1" width="896" height="245" frameX="-3" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10001" x="4998" y="1" width="896" height="245" frameX="-3" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10002" x="4998" y="1" width="896" height="245" frameX="-3" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10003" x="4998" y="1" width="896" height="245" frameX="-3" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10004" x="4100" y="1" width="895" height="245" frameX="-4" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10005" x="4100" y="1" width="895" height="245" frameX="-4" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10006" x="1413" y="1" width="893" height="238" frameX="-0" frameY="-5" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10007" x="1413" y="1" width="893" height="238" frameX="-0" frameY="-5" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10008" x="539" y="1" width="871" height="212" frameX="-7" frameY="-17" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10009" x="539" y="1" width="871" height="212" frameX="-7" frameY="-17" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10010" x="98" y="1" width="438" height="73" frameX="-229" frameY="-101" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10011" x="98" y="1" width="438" height="73" frameX="-229" frameY="-101" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10012" x="5" y="1" width="90" height="36" frameX="-410" frameY="-123" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10013" x="5" y="1" width="90" height="36" frameX="-410" frameY="-123" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box disappear instance 10014" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="902" frameHeight="246"/>
+	<SubTexture name="box instance 10000" x="4998" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10001" x="4998" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10002" x="4998" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10003" x="4998" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10004" x="4998" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10005" x="4998" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10006" x="4998" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10007" x="4998" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10008" x="4998" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10009" x="4998" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10010" x="2309" y="1" width="897" height="242" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10011" x="2309" y="1" width="897" height="242" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10012" x="2309" y="1" width="897" height="242" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10013" x="2309" y="1" width="897" height="242" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10014" x="2309" y="1" width="897" height="242" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10015" x="2309" y="1" width="897" height="242" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10016" x="2309" y="1" width="897" height="242" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10017" x="2309" y="1" width="897" height="242" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10018" x="2309" y="1" width="897" height="242" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10019" x="2309" y="1" width="897" height="242" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10020" x="5897" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10021" x="5897" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10022" x="5897" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10023" x="5897" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10024" x="5897" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10025" x="5897" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10026" x="5897" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10027" x="5897" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10028" x="5897" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10029" x="5897" y="1" width="896" height="245" frameX="-2" frameY="-1" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10030" x="3209" y="1" width="888" height="243" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10031" x="3209" y="1" width="888" height="243" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10032" x="3209" y="1" width="888" height="243" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10033" x="3209" y="1" width="888" height="243" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10034" x="3209" y="1" width="888" height="243" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10035" x="3209" y="1" width="888" height="243" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10036" x="3209" y="1" width="888" height="243" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10037" x="3209" y="1" width="888" height="243" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10038" x="3209" y="1" width="888" height="243" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+	<SubTexture name="box instance 10039" x="3209" y="1" width="888" height="243" frameX="-1" frameY="-2" frameWidth="902" frameHeight="251"/>
+</TextureAtlas>

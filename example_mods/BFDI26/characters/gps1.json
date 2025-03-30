@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "altidle"
+		},
+		{
+			"offsets": [
+				-270,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "altleft"
+		},
+		{
+			"offsets": [
+				-65,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "altdown instance 1"
+		},
+		{
+			"offsets": [
+				-636,
+				413
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "altup instance 1"
+		},
+		{
+			"offsets": [
+				-957,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "altright instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/underway/gpsone/gps alt just poses",
+	"position": [
+		-400,
+		-350
+	],
+	"healthicon": "gps",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		43,
+		0
+	],
+	"camera_position": [
+		-170,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

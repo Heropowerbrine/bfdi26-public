@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				739,
+				-161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "roz p down instance 1"
+		},
+		{
+			"offsets": [
+				738,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "roz p up instance 1"
+		},
+		{
+			"offsets": [
+				745,
+				-112
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "roz p left instance 1"
+		},
+		{
+			"offsets": [
+				717,
+				-107
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "roz p right instance 1"
+		},
+		{
+			"offsets": [
+				720,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "roz planet instance 1"
+		},
+		{
+			"offsets": [
+				722,
+				-112
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "miss",
+			"loop": false,
+			"name": "rozz p miss instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/help-me/planet roz",
+	"position": [
+		165,
+		390
+	],
+	"healthicon": "roz",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		216,
+		250
+	],
+	"camera_position": [
+		-200,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pence ahh dance.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pence instance 10000" x="7" y="172" width="101" height="158" frameX="-3" frameY="0" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10001" x="7" y="172" width="101" height="158" frameX="-3" frameY="0" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10002" x="245" y="7" width="101" height="153" frameX="-4" frameY="-5" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10003" x="245" y="7" width="101" height="153" frameX="-4" frameY="-5" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10004" x="245" y="7" width="101" height="153" frameX="-4" frameY="-5" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10005" x="115" y="172" width="123" height="129" frameX="0" frameY="-30" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10006" x="115" y="172" width="123" height="129" frameX="0" frameY="-30" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10007" x="353" y="7" width="119" height="129" frameX="-7" frameY="-30" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10008" x="353" y="7" width="119" height="129" frameX="-7" frameY="-30" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10009" x="353" y="7" width="119" height="129" frameX="-7" frameY="-30" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10010" x="7" y="7" width="102" height="158" frameX="-39" frameY="0" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10011" x="7" y="7" width="102" height="158" frameX="-39" frameY="0" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10012" x="245" y="167" width="101" height="153" frameX="-39" frameY="-5" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10013" x="245" y="167" width="101" height="153" frameX="-39" frameY="-5" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10014" x="245" y="167" width="101" height="153" frameX="-39" frameY="-5" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10015" x="116" y="7" width="122" height="129" frameX="-21" frameY="-30" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10016" x="116" y="7" width="122" height="129" frameX="-21" frameY="-30" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10017" x="353" y="143" width="119" height="129" frameX="-18" frameY="-30" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10018" x="353" y="143" width="119" height="129" frameX="-18" frameY="-30" frameWidth="143" frameHeight="159"/>
+	<SubTexture name="pence instance 10019" x="353" y="143" width="119" height="129" frameX="-18" frameY="-30" frameWidth="143" frameHeight="159"/>
+</TextureAtlas>

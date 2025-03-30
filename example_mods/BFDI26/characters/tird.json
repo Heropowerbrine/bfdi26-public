@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-29,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tird down instance 1"
+		},
+		{
+			"offsets": [
+				20,
+				72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tird up instance 1"
+		},
+		{
+			"offsets": [
+				-61,
+				46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tird right instance 1"
+		},
+		{
+			"offsets": [
+				38,
+				44
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tird left instance 1"
+		},
+		{
+			"offsets": [
+				10,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "tird idle instance 1"
+		}
+	],
+	"vocals_file": "tird",
+	"no_antialiasing": true,
+	"image": "characters/candybar TIRD",
+	"position": [
+		10,
+		380
+	],
+	"healthicon": "tird",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-60,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

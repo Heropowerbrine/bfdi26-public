@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [88, 342],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [185, 789],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-118, 403],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [479, 387],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [56, 430],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [359, 500],
+			"anim": "start",
+			"fps": 24,
+			"name": "blud spawn instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [141, 472],
+			"anim": "fellaform",
+			"fps": 24,
+			"name": "small blud instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [94, 431],
+			"anim": "fellaformundo",
+			"fps": 24,
+			"name": "small blud go back instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [61, 77],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "small bludD instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [115, 131],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "small bludU instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [313, 80],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "small bludL instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-72, 77],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "small bludR instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [116, 136],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft-alt",
+			"indices": [0, 1, 2, 3, 4, 5, 6],
+			"name": "blud idle instance 1"
+		},
+		{
+			"offsets": [110, 140],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight-alt",
+			"indices": [7, 8, 9, 10, 11, 12, 13],
+			"name": "blud idle instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/animaticsprites",
+	"position": [190, 610],
+	"healthicon": "animatic",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-60, -500],
+	"sing_duration": 4,
+	"scale": 1.4,
+	"_editor_isPlayer": false
+}
