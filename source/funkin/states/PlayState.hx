@@ -10,7 +10,7 @@ import funkin.backend.Song;
 import funkin.backend.Section;
 import funkin.backend.Rating;
 
-import hxdiscord_rpc.Discord;
+//import hxdiscord_rpc.Discord;
 
 import funkin.data.Highscore;
 import funkin.data.StageData;
