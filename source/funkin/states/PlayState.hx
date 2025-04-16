@@ -685,7 +685,7 @@ class PlayState extends MusicBeatState
 			}
 		#end
 
-		DiscordClient.changePresence('');
+		//DiscordClient.changePresence('');
 		//HINT
 		#if DISCORD_ALLOWED
 		for (i in 0...list.length) //REWRITE LATERO
@@ -2621,7 +2621,7 @@ class PlayState extends MusicBeatState
 					FlxG.sound.playMusic(Paths.music('freakyMenu'));
 					#if DISCORD_ALLOWED DiscordClient.resetClientID(); #end
 
-					DiscordClient.set_clientID("1260051488265470014");
+					//DiscordClient.set_clientID("1260051488265470014");
 					FlxG.switchState(funkin.states.NewMain.new);
 
 					// if ()
@@ -2653,7 +2653,7 @@ class PlayState extends MusicBeatState
 				Mods.loadTopMod();
 				#if DISCORD_ALLOWED DiscordClient.resetClientID(); #end
 
-				DiscordClient.set_clientID("1260051488265470014");
+				//DiscordClient.set_clientID("1260051488265470014");
 				FlxG.switchState(FreeplayState.new);
 				//FlxG.sound.playMusic(Paths.music('freakyMenu'));
 				changedDifficulty = false;
