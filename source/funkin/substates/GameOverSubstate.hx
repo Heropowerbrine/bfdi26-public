@@ -6,7 +6,6 @@ import funkin.objects.Character;
 import flixel.FlxObject;
 import flixel.FlxSubState;
 
-import funkin.states.StoryMenuState;
 import funkin.states.FreeplayState;
 
 class GameOverSubstate extends MusicBeatSubstate
