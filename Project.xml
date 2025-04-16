@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="BFDI26" file="BFDI26" packageName="com.shadowmario.psychengine" package="com.shadowmario.psychengine" main="Main" version="0.2.8" company="BFDI26" />
+	<app title="BFDI26" file="BFDI26" packageName="com.shadowmario.bfdi" package="com.shadowmario.bfdi" main="Main" version="0.2.8" company="BFDI26" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
@@ -20,10 +20,10 @@
 	
 	<!-- ______________________ PSYCH ENGINE CUSTOMIZATION ______________________ -->
 
-	<define name="MODS_ALLOWED" if="desktop"/>
-	<define name="HSCRIPT_ALLOWED" if="desktop"/>
-	<define name="LUA_ALLOWED" if="desktop"/>
-	<define name="DISCORD_ALLOWED"/>
+	<define name="MODS_ALLOWED" if="desktop || android"/>
+	<define name="HSCRIPT_ALLOWED" if="desktop || android"/>
+	<define name="LUA_ALLOWED" if="desktop || android"/>
+	<define name="DISCORD_ALLOWED" if="desktop" />
 
 	<define name="VIDEOS_ALLOWED" if="cpp"/>
 	<!-- ____________________________ Window Settings ___________________________ -->
@@ -38,7 +38,7 @@
 	<window if="desktop" orientation="landscape" fullscreen="false" resizable="true" vsync="false"/>
 
 	<!--Mobile-specific-->
-	<window if="mobile" orientation="landscape" fullscreen="true" width="0" height="0" resizable="false"/>
+	<window if="mobile" orientation="landscape" fullscreen="true" resizable="false" allow-shaders="true" require-shaders="true" allow-high-dpi="true"/>
 
 	<!--Switch-specific-->
 	<window if="switch" orientation="landscape" fullscreen="true" width="0" height="0" resizable="true" />
@@ -156,6 +156,10 @@
 
 	<!--Disable deprecated warnings-->
 	<haxedef name='no-deprecation-warnings' />
+
+	<!--Avoid memory leaks with for loops in HScript-->
+  	<haxedef name="loop_unroll_max_cost" value="25" />
+  	<haxedef name="DISABLED_MACRO_SUPERLATIVE" if="mobile" />
 
 	<!--nicer looking errors-->
     <haxedef name="message.reporting" value="pretty"/>
