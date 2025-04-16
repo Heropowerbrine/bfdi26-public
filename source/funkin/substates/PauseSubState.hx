@@ -9,7 +9,6 @@ import flixel.addons.transition.FlxTransitionableState;
 
 import flixel.util.FlxStringUtil;
 
-import funkin.states.StoryMenuState;
 import funkin.states.FreeplayState;
 import funkin.states.options.OptionsState;
 
