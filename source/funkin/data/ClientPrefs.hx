@@ -6,6 +6,10 @@ import flixel.input.gamepad.FlxGamepadInputID;
 
 // Add a variable here and it will get automatically saved
 @:structInit class SaveVariables {
+	public var screensaver:Bool = false;
+ 	public var wideScreen:Bool = false;
+ 	public var controlsAlpha:Float = 0.7;
+ 	public var hideHitboxHints:Bool = false;
 	public var botPlay:Bool = false;
 	public var downScroll:Bool = false;
 	public var middleScroll:Bool = false;
