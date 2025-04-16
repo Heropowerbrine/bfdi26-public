@@ -188,7 +188,7 @@ class Main extends Sprite
 		}
 		if (FlxG.game != null) resetSpriteCache(FlxG.game);
 		
-		if (fpsVar != null) #if mobile fpsVar.positionFPS(10, 3, Math.min(w / FlxG.width, h / FlxG.height)); #else fpsVar.scaleX = fpsVar.scaleY = Math.max(1, Math.min(w / FlxG.width, h / FlxG.height));
+		if (fpsVar != null) #if mobile fpsVar.positionFPS(10, 3, Math.min(w / FlxG.width, h / FlxG.height)); #else fpsVar.scaleX = fpsVar.scaleY = Math.max(1, Math.min(w / FlxG.width, h / FlxG.height)); #end
 	}
 
 	static function resetSpriteCache(sprite:Sprite):Void {
