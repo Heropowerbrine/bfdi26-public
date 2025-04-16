@@ -53,7 +53,12 @@ import openfl.display.StageScaleMode;
 import lime.app.Application;
 import lime.graphics.Image;
 import lime.system.System as LimeSystem;
-import mobile.states.CopyState;
+import openfl.utils.ByteArray;
+import flixel.ui.FlxBar;
+import flixel.ui.FlxBar.FlxBarFillDirection;
+import lime.system.ThreadPool;
+import lime.utils.Assets as LimeAssets;
+import openfl.utils.Assets as OpenFLAssets;
 
 #if (linux && !debug)
 @:cppInclude('./external/gamemode_client.h')
