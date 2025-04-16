@@ -736,6 +736,12 @@ class FPSCounter extends Sprite
 	}
 	
 	inline function get_memoryMegas():UInt return cast #if (openfl < "9.4.0") System.totalMemory #else System.totalMemoryNumber #end;
+
+	public inline function positionFPS(X:Float, Y:Float, ?scale:Float = 1){
+ 		scaleX = scaleY = #if mobile (scale > 1 ? scale : 1) #else (scale < 1 ? scale : 1) #end;
+ 		x = FlxG.game.x + X;
+ 		y = FlxG.game.y + Y;
+	}
 	
 	#if debug
 	@:access(funkin.backend.MusicBeatState)
