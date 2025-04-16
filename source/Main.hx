@@ -52,6 +52,8 @@ import openfl.events.Event;
 import openfl.display.StageScaleMode;
 import lime.app.Application;
 import lime.graphics.Image;
+import lime.system.System as LimeSystem;
+import mobile.states.CopyState;
 
 #if (linux && !debug)
 @:cppInclude('./external/gamemode_client.h')
@@ -79,12 +81,20 @@ class Main extends Sprite
 	{
 		super();
 
+		#if mobile
+  		#if android
+  		SUtil.requestPermissions();
+  		#end
+  		Sys.setCwd(SUtil.getStorageDirectory());
+  		#end
+ 		mobile.backend.CrashHandler.init();
+
 		// Credits to MAJigsaw77 (he's the og author for this code)
-		#if android
-		Sys.setCwd(Path.addTrailingSlash(Context.getExternalFilesDir()));
-		#elseif ios
-		Sys.setCwd(lime.system.System.applicationStorageDirectory);
-		#end
+		//#if android
+		//Sys.setCwd(Path.addTrailingSlash(Context.getExternalFilesDir()));
+		//#elseif ios
+		//Sys.setCwd(lime.system.System.applicationStorageDirectory);
+		//#end
 
 		if (stage != null)
 		{
@@ -110,6 +120,7 @@ class Main extends Sprite
 
 	private function setupGame():Void
 	{
+		#if (openfl <= "9.2.0")
 		var stageWidth:Int = Lib.current.stage.stageWidth;
 		var stageHeight:Int = Lib.current.stage.stageHeight;
 
@@ -121,20 +132,22 @@ class Main extends Sprite
 			gameWidth = Math.ceil(stageWidth / zoom);
 			gameHeight = Math.ceil(stageHeight / zoom);
 		}
+		#else
+ 		if (zoom == -1.0)
+ 			zoom = 1.0;
+ 		#end
 		
-		game = new FlxGame(gameWidth, gameHeight, initialState, #if(flixel < "5.0.0")zoom,#end framerate, framerate, skipSplash, startFullscreen);
+		game = new FlxGame(gameWidth, gameHeight, #if (mobile && MODS_ALLOWED) CopyState.checkExistingFiles() ? initialState : CopyState #else initialState #end, #if(flixel < "5.0.0")zoom,#end framerate, framerate, skipSplash, startFullscreen);
 		@:privateAccess game._customSoundTray = BFDISoundTray;
 	
 		Setup.loadSave();
 		addChild(game);
 
-		#if !mobile
 		fpsVar = new FPSCounter(10, 3, 0xFFFFFF);
 		addChild(fpsVar);
 		Lib.current.stage.align = "tl";
 		Lib.current.stage.scaleMode = StageScaleMode.NO_SCALE;
 		fpsVar.visible = false;
-		#end
 
 		#if linux
 		var icon = Image.fromFile("icon.png");
@@ -145,6 +158,10 @@ class Main extends Sprite
 		FlxG.autoPause = false;
 		FlxG.mouse.visible = false;
 		#end
+
+		#if android FlxG.android.preventDefaultKeys = [BACK]; #end
+ 
+ 		LimeSystem.allowScreenTimeout = ClientPrefs.data.screensaver;
 		
 		#if CRASH_HANDLER
 		Lib.current.loaderInfo.uncaughtErrorEvents.addEventListener(UncaughtErrorEvent.UNCAUGHT_ERROR, onCrash);
@@ -171,7 +188,7 @@ class Main extends Sprite
 		}
 		if (FlxG.game != null) resetSpriteCache(FlxG.game);
 		
-		if (fpsVar != null) fpsVar.scaleX = fpsVar.scaleY = Math.max(1, Math.min(w / FlxG.width, h / FlxG.height));
+		if (fpsVar != null) #if mobile fpsVar.positionFPS(10, 3, Math.min(w / FlxG.width, h / FlxG.height)); #else fpsVar.scaleX = fpsVar.scaleY = Math.max(1, Math.min(w / FlxG.width, h / FlxG.height));
 	}
 
 	static function resetSpriteCache(sprite:Sprite):Void {
