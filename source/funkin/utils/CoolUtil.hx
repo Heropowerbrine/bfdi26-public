@@ -18,6 +18,10 @@ import funkin.data.Highscore;
 
 import tjson.TJSON;
 
+#if cpp
+@:cppFileCode('#include <thread>')
+#end
+
 class CoolUtil
 {
 	/**
@@ -221,4 +225,22 @@ class CoolUtil
 				text.borderStyle = NONE;
 		}
 	}
+	public static function showPopUp(message:String, title:String):Void
+	{
+		/*#if android
+		AndroidTools.showAlertDialog(title, message, {name: "OK", func: null}, null);
+		#else*/
+		FlxG.stage.window.alert(message, title);
+		//#end
+	}
+
+	#if cpp
+    @:functionCode('
+        return std::thread::hardware_concurrency();
+    ')
+	#end
+    public static function getCPUThreadsCount():Int
+    {
+        return 1;
+    }
 }
