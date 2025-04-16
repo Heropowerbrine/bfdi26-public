@@ -3,9 +3,9 @@
     {
       "name": "lime",
       "type": "git",
-      "dir": null,
-      "ref": "develop",
-      "url": "https://github.com/lavycat/lime"
+      "dir": null,   
+      "ref": "main",
+      "url": "https://github.com/MobilePorting/lime"   
     },
     {
       "name": "compiletime",
@@ -22,11 +22,13 @@
       "type": "haxelib",
       "version": "9.4.1"
     },
-    {
+    {  
       "name": "flixel",
-      "type": "haxelib",
-      "version": "6.0.0"
-    },
+      "type": "git",
+      "dir": null,
+      "ref": "5.8.0",
+      "url": "https://github.com/MobilePorting/flixel"
+        },
     {
       "name": "flixel-addons",
       "type": "haxelib",
@@ -46,8 +48,8 @@
       "name": "hxcpp",
       "type": "git",
       "dir": null,
-      "ref": "v4.3.73",
-      "url": "https://github.com/HaxeFoundation/hxcpp"
+      "ref": "main",
+      "url": "https://github.com/MobilePorting/hxcpp"
     },
     {
       "name": "hxcpp-debug-server",
@@ -98,7 +100,7 @@
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/superpowers04/linc_luajit"
+      "url": "https://github.com/MobilePorting/linc_luajit"
     }
   ]
 }
