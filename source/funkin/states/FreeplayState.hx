@@ -179,7 +179,7 @@ class FreeplayState extends MusicBeatState
 		FlxG.mouse.load(Main.Setup.mouseGraphic,0.1);
 		
 		Paths.clearStoredMemory();
-		DiscordClient.changePresence("BFDI 26 - BROWSING THE WEB", null);
+		//DiscordClient.changePresence("BFDI 26 - BROWSING THE WEB", null);
 
 		if (Progress.isDataReset) generateThumbnails(true);
 		else generateThumbnails(false);
