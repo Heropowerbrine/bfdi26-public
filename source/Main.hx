@@ -162,6 +162,7 @@ class Main extends Sprite
 		#if android FlxG.android.preventDefaultKeys = [BACK]; #end
  
  		LimeSystem.allowScreenTimeout = ClientPrefs.data.screensaver;
+		FlxG.scaleMode = new MobileScaleMode();
 		
 		#if CRASH_HANDLER
 		Lib.current.loaderInfo.uncaughtErrorEvents.addEventListener(UncaughtErrorEvent.UNCAUGHT_ERROR, onCrash);
