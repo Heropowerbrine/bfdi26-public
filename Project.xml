@@ -80,7 +80,13 @@
 	<!-- _______________________________ Macros ______________________________ -->
 
 	<haxeflag name="--macro" value="allowPackage('flash')" />
-	<haxeflag name="--macro" value="include('funkin')" />
+	<haxeflag name="--macro" value="include('funkin.backend')" />
+	<haxeflag name="--macro" value="include('funkin.data')" />
+	<haxeflag name="--macro" value="include('funkin.objects')" />
+	<haxeflag name="--macro" value="include('funkin.psychlua')" />
+	<haxeflag name="--macro" value="include('funkin.states')" />
+	<haxeflag name="--macro" value="include('funkin.substates')" />
+	<haxeflag name="--macro" value="include('funkin.utils')" />
 
 	<haxeflag name="-dce no" />
 
