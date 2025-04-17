@@ -57,7 +57,7 @@
 	<define name="CRASH_HANDLER" />
 
 	<!-- Assets -->
-	<assets path="assets/embeds" rename= "assets" embed="true" if="release"/>
+	<assets path="assets/embeds" rename= "assets" embed="false" if="release"/>
 	<assets path="assets/embeds" rename= "assets"  unless="release"/>
 	
 	<assets path="assets/fonts" />
